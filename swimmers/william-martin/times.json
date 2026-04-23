@@ -1,0 +1,168 @@
+{
+  "swimmer": {
+    "snc": "140214581",
+    "last": "Martin",
+    "first": "William",
+    "sex": "M",
+    "dob": "04042018",
+    "meets": [
+      1493,
+      1591,
+      1592,
+      1594,
+      1807
+    ]
+  },
+  "results": [
+    {
+      "rems": 1493,
+      "meet": "BAC Short Course Fall Invitational",
+      "meet_start": "11072025",
+      "date": "11092025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "60.19",
+      "course": "S"
+    },
+    {
+      "rems": 1493,
+      "meet": "BAC Short Course Fall Invitational",
+      "meet_start": "11072025",
+      "date": "11092025",
+      "distance": 50,
+      "stroke": "B",
+      "time": "71.28",
+      "course": "S"
+    },
+    {
+      "rems": 1807,
+      "meet": "GHAC Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11232025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "54.41",
+      "course": "S"
+    },
+    {
+      "rems": 1807,
+      "meet": "GHAC Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11232025",
+      "distance": 25,
+      "stroke": "B",
+      "time": "30.16",
+      "course": "S"
+    },
+    {
+      "rems": 1807,
+      "meet": "GHAC Fall Invitational",
+      "meet_start": "11212025",
+      "date": "11232025",
+      "distance": 25,
+      "stroke": "C",
+      "time": "34.41",
+      "course": "S"
+    },
+    {
+      "rems": 1591,
+      "meet": "GHAC Super Fun Development Meet #1",
+      "meet_start": "12132025",
+      "date": "12132025",
+      "distance": 50,
+      "stroke": "A",
+      "time": "59.03",
+      "course": "S"
+    },
+    {
+      "rems": 1591,
+      "meet": "GHAC Super Fun Development Meet #1",
+      "meet_start": "12132025",
+      "date": "12132025",
+      "distance": 50,
+      "stroke": "B",
+      "time": "67.64",
+      "course": "S"
+    },
+    {
+      "rems": 1591,
+      "meet": "GHAC Super Fun Development Meet #1",
+      "meet_start": "12132025",
+      "date": "12132025",
+      "distance": 50,
+      "stroke": "C",
+      "time": "73.56",
+      "course": "S"
+    },
+    {
+      "rems": 1594,
+      "meet": "GHAC Super Fun Development Meet #2",
+      "meet_start": "02142026",
+      "date": "02142026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "125.32",
+      "course": "S"
+    },
+    {
+      "rems": 1594,
+      "meet": "GHAC Super Fun Development Meet #2",
+      "meet_start": "02142026",
+      "date": "02142026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "63.81",
+      "course": "S"
+    },
+    {
+      "rems": 1594,
+      "meet": "GHAC Super Fun Development Meet #2",
+      "meet_start": "02142026",
+      "date": "02142026",
+      "distance": 50,
+      "stroke": "C",
+      "time": "73.24",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "51.86",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03072026",
+      "distance": 50,
+      "stroke": "C",
+      "time": "66.85",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03082026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "115.84",
+      "course": "S"
+    },
+    {
+      "rems": 1592,
+      "meet": "GHAC Winter Invitational 2026",
+      "meet_start": "03062026",
+      "date": "03082026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "62.20",
+      "course": "S"
+    }
+  ]
+}
