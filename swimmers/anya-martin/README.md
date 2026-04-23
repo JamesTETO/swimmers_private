@@ -4,7 +4,7 @@
 - **DOB:** 2015-10-19
 - **Sex:** F
 - **Swims on record:** 39 across 11 meets
-- **Last refresh:** 2026-04-23 14:57 UTC
+- **Last refresh:** 2026-04-23 15:27 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -16,7 +16,7 @@
 - 🎉 **100 Back LCM 1:36.60** (−7.77 vs stale Jun 2025) — first fresh LC 100 Back in 10 months
 - **50 Back LCM 45.19** (−0.16 vs 6-day-old GHAC Spring PB) — tiny drop but it's a PB
 - **200 Free LCM 3:15.10** (first LC 200 Free)
-- 100 Free LCM 1:28.76 (+0.70 vs GHAC Spring 1:28.06) — only regression; likely back-to-back-meet fatigue (same pattern as Kennedy)
+- 100 Free LCM 1:28.76 (+0.70 vs GHAC Spring 1:28.06) — only regression; consistent with back-to-back LC meet fatigue (everything else went PB)
 
 **Qualifying movement:** All 5 Pocock events are WOSA-qualified. Biggest OAG gaps remain in 50 Free LCM (~5s), 100 Free LCM (~16s).
 
@@ -108,24 +108,24 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | Event | Course | PB | Age at PB | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|
 | **— QUALIFIED —** ||||||
-| 50 Back | LCM | **45.19** | age 10 | ✅ 45.86 | ❌ 38.85 |
-| 100 Back | LCM | **1:36.60** | age 10 | ✅ 1:37.61 | ❌ 1:22.69 |
-| 50 Back | SCM | **44.26** | age 10 | ✅ 44.96 | ❌ 38.09 |
-| 200 Back | SCM | **3:22.24** | age 10 | ✅ 3:24.99 | ❌ 2:53.65 |
+| 50 Back | LCM | **45.19** | age 10 | ✅ 45.86 (+0.67s) | ❌ 38.85 (−6.34s) |
+| 100 Back | LCM | **1:36.60** | age 10 | ✅ 1:37.61 (+1.01s) | ❌ 1:22.69 (−13.91s) |
+| 50 Back | SCM | **44.26** | age 10 | ✅ 44.96 (+0.70s) | ❌ 38.09 (−6.17s) |
+| 200 Back | SCM | **3:22.24** | age 10 | ✅ 3:24.99 (+2.75s) | ❌ 2:53.65 (−28.59s) |
 | **— NOT YET QUALIFIED —** ||||||
-| 50 Free | LCM | **43.39** | age 9 | ❌ 38.80 | ❌ 32.81 |
-| 50 Breast | LCM | **54.40** | age 10 | ❌ 51.84 | ❌ 43.91 |
-| 100 Free | LCM | **1:28.06** | age 10 | ❌ 1:25.41 | ❌ 1:12.23 |
-| 100 Breast | LCM | **1:57.75** | age 10 | ❌ 1:52.16 | ❌ 1:35.01 |
-| 200 Free | LCM | **3:15.10** | age 10 | ❌ 3:04.90 | ❌ 2:36.36 |
-| 50 Free | SCM | **40.83** | age 10 | ❌ 37.97 | ❌ 32.16 |
-| 50 Breast | SCM | **55.31** | age 10 | ❌ 50.82 | ❌ 43.11 |
-| 100 Free | SCM | **1:29.01** | age 10 | ❌ 1:23.60 | ❌ 1:10.82 |
-| 100 Back | SCM | **1:36.70** | age 10 | ❌ 1:35.70 | ❌ 1:21.07 |
-| 100 Breast | SCM | **2:03.07** | age 10 | ❌ 1:49.95 | ❌ 1:33.14 |
-| 400 Free | SCM | **7:05.82** | age 10 | ❌ 6:20.40 | ❌ 5:22.24 |
-| 800 Free | SCM | **14:32.13** | age 10 | ❌ 13:06.80 | ❌ 11:06.51 |
-| 200 IM | SCM | **3:38.99** | age 10 | ❌ 3:25.94 | ❌ 2:55.23 |
+| 50 Free | LCM | **43.39** | age 9 | ❌ 38.80 (−4.59s) | ❌ 32.81 (−10.58s) |
+| 50 Breast | LCM | **54.40** | age 10 | ❌ 51.84 (−2.56s) | ❌ 43.91 (−10.49s) |
+| 100 Free | LCM | **1:28.06** | age 10 | ❌ 1:25.41 (−2.65s) | ❌ 1:12.23 (−15.83s) |
+| 100 Breast | LCM | **1:57.75** | age 10 | ❌ 1:52.16 (−5.59s) | ❌ 1:35.01 (−22.74s) |
+| 200 Free | LCM | **3:15.10** | age 10 | ❌ 3:04.90 (−10.20s) | ❌ 2:36.36 (−38.74s) |
+| 50 Free | SCM | **40.83** | age 10 | ❌ 37.97 (−2.86s) | ❌ 32.16 (−8.67s) |
+| 50 Breast | SCM | **55.31** | age 10 | ❌ 50.82 (−4.49s) | ❌ 43.11 (−12.20s) |
+| 100 Free | SCM | **1:29.01** | age 10 | ❌ 1:23.60 (−5.41s) | ❌ 1:10.82 (−18.19s) |
+| 100 Back | SCM | **1:36.70** | age 10 | ❌ 1:35.70 (−1.00s) | ❌ 1:21.07 (−15.63s) |
+| 100 Breast | SCM | **2:03.07** | age 10 | ❌ 1:49.95 (−13.12s) | ❌ 1:33.14 (−29.93s) |
+| 400 Free | SCM | **7:05.82** | age 10 | ❌ 6:20.40 (−45.42s) | ❌ 5:22.24 (−103.58s) |
+| 800 Free | SCM | **14:32.13** | age 10 | ❌ 13:06.80 (−85.33s) | ❌ 11:06.51 (−205.62s) |
+| 200 IM | SCM | **3:38.99** | age 10 | ❌ 3:25.94 (−13.05s) | ❌ 2:55.23 (−43.76s) |
 
 ## All swims
 
@@ -178,6 +178,63 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 ## Analysis
 <!-- ANALYSIS:START — Claude-maintained, preserved across refreshes -->
 
-_No analysis yet. Ask Claude to review this swimmer — the `/swim` skill will refresh the data section and the assistant can rewrite this block based on the latest numbers._
+_Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
+
+_First analysis — 2026-04-23. Data through Lou Pocock Invitational (Apr 17–18, 2026), 39 swims across 11 meets._
+
+### What the data says she's good at
+
+| Event | Evidence |
+|---|---|
+| **100 Back LCM** | 1:44.37 → 1:36.60 — dropped 7.77s at Pocock; WOSA-qualified |
+| **50 Back LCM** | 48.91 → 45.35 → 45.19 — three consecutive PBs; WOSA-qualified |
+| **Back breadth** | All 4 of her WOSA qualifications are in Back events (50 LC, 100 LC, 50 SC, 200 SC) |
+| **200 Back SCM** | 3:22.24 — WOSA-qualified; dropped from 3:27.93 |
+| **100 Breast LCM** | 2:08.51 → 1:57.75 (Pocock) — first time under 2:00 |
+| **Event range** | 19 unique events on record; racing distance free, IM, and all strokes |
+
+### Profile and identity
+
+Anya's data has a clear identity: **Back specialist**. Every qualifying achievement so far is in a Back event — 50 Back LC and SC, 100 Back LC, 200 Back SC. The progression on 100 Back LCM (1:44.37 in Jun 2025 → 1:36.60 at Pocock, −7.77s) is her biggest absolute improvement. Her profile looks like a Back / middle-distance swimmer with a developing Breast and strong distance base.
+
+### Structural observations
+
+**1. 100 Back SC ≈ 100 Back LC — worth monitoring.**
+SCM 1:36.70 vs LCM 1:36.60. These should not be essentially equal. Over 100m in SCM there is one extra turn that should produce at least 1–2 seconds of advantage. The near-identical times suggest the extra SCM turn isn't generating speed — either a flat streamline off the wall, late push-off, or breathing immediately off the turn. The 50 SC Back (44.26) vs 50 LC Back (45.19) shows a 0.93s gap in the expected direction, so the issue likely intensifies over the 100. High-ROI technical focus for next SCM season.
+
+**2. 50 Free LCM 43.39 is almost certainly stale.**
+Set Jun 2025 at age 9. She hasn't swum LC 50 Free since — didn't enter it at GHAC Spring or Pocock. Her SCM 50 Free has dropped to 40.83 (Winter 2026). The current LC 50 Free PB doesn't reflect her current ability and should be updated at the next LC meet.
+
+**3. 100 Breast LCM breaking 2:00 is significant.**
+1:57.75 at Pocock (down from 2:08.51 in Jun 2025). The Pocock time put her within WOSA range (cut: 1:52.16 — 5.59s away) for the first time. The cut is reachable. Breast is now a genuinely competitive event, not just a developmental filler.
+
+**4. No Fly events on record.**
+39 swims and not a single Fly. For a swimmer with a Back foundation, Fly is the natural complement — similar underwater timing, core-heavy technique. Its absence at age 10 limits future IM development. Even a 50 Fly debut (SCM or LCM) would give the coaching staff useful data.
+
+**5. SCM distance base is solid.**
+400/800/1500 Free in the same January time-trial session. These are developmental benchmarks but show a swimmer who can sustain effort over distance. That base will matter for 200 Back and 200 IM development.
+
+### WOSA / OAG trajectory
+
+WOSA-qualified in 4 events, all Back. Closest unqualified:
+- **100 Breast LCM** — 5.59s to WOSA (1:57.75 vs 1:52.16). Achievable this season.
+- **100 Free LCM** — 2.65s to WOSA (1:28.06 vs 1:25.41).
+- **50 Breast LCM** — 2.56s to WOSA (54.40 vs 51.84).
+
+OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.69 vs current PB 1:36.60). OAG is a longer runway; the near-term focus should be completing the WOSA sweep across more events.
+
+### Areas of focus — ranked by likely impact
+
+1. **Turn/wall efficiency on Back events** — the SC≈LC anomaly on 100 Back is the clearest technical signal. Fixing the turn alone could add 1–2s of SCM advantage.
+2. **Update 50 Free LCM** — enter at Summer LC Inv for an honest baseline. Her SC 50 Free is more than 2s faster than the current LC PB.
+3. **Race 50 Fly** — a first debut would establish a baseline and open up the IM pathway.
+4. **Push 100 Breast LCM toward WOSA** — 5.59s to close. Within reach in 1–2 LC meets.
+5. **100 Back SCM development** — the gap to WOSA (1:36.70 vs 1:21.07) is sizeable, but the trajectory is right; consistent racing will close it.
+
+### What to watch for
+
+- **GHAC Summer LC Inv (May 22–24):** Does she race 50 Free LCM and update the stale PB? Any Fly debut? Can she get 100 Back LCM under 1:35?
+- **2026-2027 SCM season:** Does 100 Back SC begin to separate from 100 Back LC as turn efficiency improves?
+- **First Fly event:** When it appears, it will signal the coaching staff is preparing her for IM.
 
 <!-- ANALYSIS:END -->

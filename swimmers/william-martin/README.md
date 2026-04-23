@@ -4,7 +4,7 @@
 - **DOB:** 2018-04-04
 - **Sex:** M
 - **Swims on record:** 15 across 5 meets
-- **Last refresh:** 2026-04-23 14:57 UTC
+- **Last refresh:** 2026-04-23 15:27 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -80,6 +80,35 @@ At age 7 he's below the typical 10&U age-group standards, so the "Qualifying sta
 ## Analysis
 <!-- ANALYSIS:START — Claude-maintained, preserved across refreshes -->
 
-_No analysis yet. Ask Claude to review this swimmer — the `/swim` skill will refresh the data section and the assistant can rewrite this block based on the latest numbers._
+_Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
+
+_First analysis — 2026-04-23. Data through GHAC Winter Invitational (Mar 7–8, 2026), 15 swims across 5 meets._
+
+### Overview
+
+William is 7 years old and in his first competitive swim season. The data reflects 5 meets from November 2025 through March 2026, all SCM. At this stage, the most meaningful indicators are **trajectory** (are times improving?) and **consistency** (are improvements sticking?). The numbers say yes on both counts.
+
+### Event-by-event
+
+**50 Back — most consistent event.**
+Four swims: 1:11.28 → 1:07.64 → 1:03.81 → 1:02.20 — every appearance is a PB. That kind of linear improvement on Back is a good sign at age 7. Back is technically accessible early on; the fact he's also improving Breast and Free at similar rates suggests a generally developing swimmer rather than a Back-specific outlier.
+
+**50 Free — biggest volatility.**
+1:00.19 → 54.41 → 59.03 → 51.86. The up-down pattern is normal at this age. The net trajectory (1:00.19 in November → 51.86 in March) shows genuine improvement; the December regression (59.03) is day-to-day variability. The 51.86 at Winter Invitational likely reflects his real ability better than the December outlier did.
+
+**50 Breast — largest single-meet drop.**
+1:13.56 (Dec) → 1:13.24 (Feb) — minimal movement. Then 1:06.85 (Mar) — dropped 6.39s in one meet. A common pattern at this age: a technique or timing cue clicks and there's a sudden jump. The Winter Invitational was a strong all-around meet for him.
+
+**100 Free — first appearances.**
+2:05.32 (Feb) → 1:55.84 (Mar) — 9.48s in one meet. First-to-second appearances almost always produce big drops. The 1:55.84 at age 7 is a solid base to build from.
+
+**25 Back and 25 Breast** — two appearances from GHAC Fall Invitational only; no subsequent swims. These were likely development-event distances rather than regular race entries.
+
+### What to watch for
+
+- **First sub-50 50 Free** — he's at 51.86; sub-50 is a natural near-term milestone.
+- **Sub-1:00 50 Back** — currently 1:02.20; that's close.
+- **LCM debut** — no LCM appearances yet. The first LC meet will produce different times; the 50 Back and 50 Free will be interesting comparisons to the SCM numbers.
+- **100 Back or 100 Breast debut** — as he moves up in distance, these will start to appear and will add to the picture.
 
 <!-- ANALYSIS:END -->

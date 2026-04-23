@@ -4,7 +4,7 @@
 - **DOB:** 2013-09-17
 - **Sex:** M
 - **Swims on record:** 34 across 10 meets
-- **Last refresh:** 2026-04-23 14:57 UTC
+- **Last refresh:** 2026-04-23 15:27 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -97,24 +97,24 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | Event | Course | PB | Age at PB | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|
 | **— NOT YET QUALIFIED —** ||||||
-| 50 Free | LCM | **38.02** | age 11 | ❌ 35.20 | ❌ 32.87 |
-| 50 Back | LCM | **44.94** | age 12 | ❌ 38.39 | ❌ 35.77 |
-| 50 Breast | LCM | **52.53** | age 12 | ❌ 43.51 | ❌ 40.54 |
-| 50 Fly | LCM | **53.50** | age 11 | ❌ 39.49 | ❌ 36.80 |
-| 100 Free | LCM | **1:23.10** | age 12 | ❌ 1:10.68 | ❌ 1:05.86 |
-| 100 Back | LCM | **1:41.26** | age 11 | ❌ 1:30.48 | ❌ 1:24.31 |
-| 200 Free | LCM | **3:14.38** | age 11 | ❌ 2:51.78 | ❌ 2:40.06 |
-| 50 Free | SCM | **36.70** | age 12 | ❌ 31.67 | ❌ 29.37 |
-| 50 Back | SCM | **43.10** | age 12 | ❌ 37.64 | ❌ 34.90 |
-| 50 Breast | SCM | **52.93** | age 12 | ❌ 42.65 | ❌ 39.55 |
-| 100 Free | SCM | **1:20.50** | age 12 | ❌ 1:09.29 | ❌ 1:04.25 |
-| 100 Back | SCM | **1:32.04** | age 12 | ❌ 1:21.35 | ❌ 1:15.43 |
-| 100 Breast | SCM | **1:54.65** | age 12 | ❌ 1:32.03 | ❌ 1:25.33 |
-| 200 Free | SCM | **2:59.16** | age 12 | ❌ 2:32.70 | ❌ 2:21.60 |
-| 200 Back | SCM | **3:18.61** | age 12 | ❌ 2:56.47 | ❌ 2:43.64 |
-| 400 Free | SCM | **6:05.29** | age 12 | ❌ 5:21.00 | ❌ 4:57.66 |
-| 800 Free | SCM | **12:55.87** | age 12 | ❌ 11:05.58 | ❌ 10:17.17 |
-| 200 IM | SCM | **3:23.79** | age 12 | ❌ 2:52.89 | ❌ 2:40.31 |
+| 50 Free | LCM | **38.02** | age 11 | ❌ 35.20 (−2.82s) | ❌ 32.87 (−5.15s) |
+| 50 Back | LCM | **44.94** | age 12 | ❌ 38.39 (−6.55s) | ❌ 35.77 (−9.17s) |
+| 50 Breast | LCM | **52.53** | age 12 | ❌ 43.51 (−9.02s) | ❌ 40.54 (−11.99s) |
+| 50 Fly | LCM | **53.50** | age 11 | ❌ 39.49 (−14.01s) | ❌ 36.80 (−16.70s) |
+| 100 Free | LCM | **1:23.10** | age 12 | ❌ 1:10.68 (−12.42s) | ❌ 1:05.86 (−17.24s) |
+| 100 Back | LCM | **1:41.26** | age 11 | ❌ 1:30.48 (−10.78s) | ❌ 1:24.31 (−16.95s) |
+| 200 Free | LCM | **3:14.38** | age 11 | ❌ 2:51.78 (−22.60s) | ❌ 2:40.06 (−34.32s) |
+| 50 Free | SCM | **36.70** | age 12 | ❌ 31.67 (−5.03s) | ❌ 29.37 (−7.33s) |
+| 50 Back | SCM | **43.10** | age 12 | ❌ 37.64 (−5.46s) | ❌ 34.90 (−8.20s) |
+| 50 Breast | SCM | **52.93** | age 12 | ❌ 42.65 (−10.28s) | ❌ 39.55 (−13.38s) |
+| 100 Free | SCM | **1:20.50** | age 12 | ❌ 1:09.29 (−11.21s) | ❌ 1:04.25 (−16.25s) |
+| 100 Back | SCM | **1:32.04** | age 12 | ❌ 1:21.35 (−10.69s) | ❌ 1:15.43 (−16.61s) |
+| 100 Breast | SCM | **1:54.65** | age 12 | ❌ 1:32.03 (−22.62s) | ❌ 1:25.33 (−29.32s) |
+| 200 Free | SCM | **2:59.16** | age 12 | ❌ 2:32.70 (−26.46s) | ❌ 2:21.60 (−37.56s) |
+| 200 Back | SCM | **3:18.61** | age 12 | ❌ 2:56.47 (−22.14s) | ❌ 2:43.64 (−34.97s) |
+| 400 Free | SCM | **6:05.29** | age 12 | ❌ 5:21.00 (−44.29s) | ❌ 4:57.66 (−67.63s) |
+| 800 Free | SCM | **12:55.87** | age 12 | ❌ 11:05.58 (−110.29s) | ❌ 10:17.17 (−158.70s) |
+| 200 IM | SCM | **3:23.79** | age 12 | ❌ 2:52.89 (−30.90s) | ❌ 2:40.31 (−43.48s) |
 
 ## All swims
 
@@ -162,6 +162,65 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 ## Analysis
 <!-- ANALYSIS:START — Claude-maintained, preserved across refreshes -->
 
-_No analysis yet. Ask Claude to review this swimmer — the `/swim` skill will refresh the data section and the assistant can rewrite this block based on the latest numbers._
+_Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
+
+_First analysis — 2026-04-23. Data through GHAC Spring Invitational (Apr 10–12, 2026), 34 swims across 10 meets._
+
+### What the data says he's good at
+
+| Event | Evidence |
+|---|---|
+| **Distance Free SCM** | 800 Free 12:55.87; 1500 Free 24:21.84; 400 Free dropped 14.15s in 2 weeks (6:19.44 → 6:05.29) |
+| **100 Breast SCM** | 2:02.42 → 1:54.65 — 7.77s improvement, biggest absolute drop of any event |
+| **100 Back SCM** | 1:35.91 → 1:32.04 — consistent improvement, never regressed |
+| **200 IM SCM** | 3:28.20 (Nov) → 3:23.79 (Mar) — net improvement despite mid-season bump |
+| **LCM Spring return** | First LC meet in 10 months (GHAC Spring) — PBs on 100 Free and 50 Back; first 50 Breast |
+| **Event breadth** | All 4 strokes on LCM, distance Free + IM on SCM; widest event range in the GHAC group |
+
+### Profile
+
+Oliver is age 12 and building a clear **distance / IM profile**. The 800 and 1500 Free SCM appearances alongside 200 IM, 100 Back, and 100 Breast suggest a coaching approach that values engine development over sprint specialization — a well-founded strategy at 12.
+
+No qualifying times yet — the 11-12 male WOSA cuts are genuinely competitive (35.20 on 50 Free LCM, 1:10.68 on 100 Free LCM). The current PBs are not close to qualifying level in any event, but the improvement rates across multiple events suggest the times will come as the engine develops.
+
+### Structural observations
+
+**1. 50 Free SCM is going the wrong way.**
+PB 36.70 (Nov 2025) → 36.96 (Fall Inv) → 37.43 (Winter Inv). Three consecutive swims moving in the wrong direction over 4 months — this is a real regression, not random noise. Several interpretations: training emphasis shifted to distance/IM; technique is in transition; or the November swim was a genuine outlier peak. Worth a conversation with his coach. The LCM 50 Free (38.02, Jun 2025) is also stale and will likely update in summer 2026.
+
+**2. The distance base is legitimate.**
+800 Free 12:55.87 and 1500 Free 24:21.84 on SCM are real swims, not estimates. Paired with the 400 Free dropping 14s in two weeks, the aerobic capacity is there. This base typically translates to 200 Back / 200 IM development in the next 1–2 seasons.
+
+**3. 100 Breast is the most improved event.**
+7.77s in one season (2:02.42 → 1:54.65) — the biggest single-event drop in the record. Breast is the hardest stroke to develop technically, so sustained improvement usually indicates quality coaching focus. Continue prioritizing it.
+
+**4. 200 IM variance needs watching.**
+3:28.20 (Nov), 3:30.94 (Feb — regression), 3:23.79 (Mar — recovery, new PB). The mid-season regression suggests the IM components aren't all firing together yet — normal at 12, but worth examining which leg is limiting. Fly is the likeliest culprit given his event history.
+
+**5. LCM record is thin — only two meets 10 months apart.**
+Jun 2025 (BAD Outdoor) and Apr 2026 (GHAC Spring). Both show improvement: 100 Free (1:25.18 → 1:23.10) and 50 Back (46.70 → 44.94). Getting more LC meet appearances in summer 2026 is important for understanding his LCM trajectory.
+
+### Path to qualifying times
+
+The 11-12 male WOSA cuts are challenging. Current PBs vs nearest cuts:
+- **50 Free LCM** — 38.02 vs 35.20 cut (−2.82s to go) — shortest gap but going backward on SCM
+- **100 Free LCM** — 1:23.10 vs 1:10.68 cut (−12.4s to go — a longer runway)
+- **50 Back LCM** — 44.94 vs 38.39 cut (−6.55s to go)
+
+The realistic target for 2026-2027 should be narrowing these gaps significantly, not necessarily qualifying in the first year of 12-year-old competition. The trajectory is right; the cuts will come as the engine matures.
+
+### Areas of focus — ranked by likely impact
+
+1. **Investigate the 50 Free SCM regression** — three swims trending wrong. Training emphasis? Technique in transition? Useful coaching conversation.
+2. **More LCM meets in summer 2026** — the 10-month LC gap makes it hard to track LCM development. GHAC Summer LC Inv and other LC opportunities are important.
+3. **200 IM consistency** — identify the weak leg (likely Fly) and stabilize it. Clean IM racing = faster times.
+4. **Race a 200 Free LCM** — only one record (3:14.38, Jun 2025). Likely to update significantly given SCM 200 Free (2:59.16) and the distance base.
+5. **Continue Breast and Back development** — both are on clean improvement curves. Don't disrupt what's working.
+
+### What to watch for
+
+- **GHAC Summer LC Inv (May 22–24):** 200 Free LCM update; 50 Free LCM — does it recover from the SCM regression?
+- **2026-2027 SCM season:** Does 50 Free reverse course? Can 200 IM become consistent?
+- **Any 400 LC / 800 LC appearances** — he has the engine; the question is whether the coaching staff tests it at distance on LC.
 
 <!-- ANALYSIS:END -->
