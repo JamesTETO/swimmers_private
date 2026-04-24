@@ -2,7 +2,7 @@
 
 Per-swimmer progression pages — private repo, shared only with family. Generated from Swim Canada REMS.
 
-_Index regenerated: 2026-04-23 15:27 UTC_
+_Index regenerated: 2026-04-24 18:17 UTC_
 
 | Swimmer | DOB | SNC # | Swims | Meets | Page |
 |---|---|---|---|---|---|
