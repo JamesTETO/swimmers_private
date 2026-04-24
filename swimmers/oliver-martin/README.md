@@ -3,8 +3,8 @@
 - **SNC #:** 129236737
 - **DOB:** 2013-09-17
 - **Sex:** M
-- **Swims on record:** 34 across 10 meets
-- **Last refresh:** 2026-04-24 18:17 UTC
+- **Swims on record:** 40 across 12 meets
+- **Last refresh:** 2026-04-24 18:53 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -27,7 +27,7 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 50 Free | LCM | **38.02** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 35.20 (−2.82s) | ❌ 32.87 (−5.15s) |
 | 50 Back | LCM | **44.94** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 38.39 (−6.55s) | ❌ 35.77 (−9.17s) |
 | 50 Breast | LCM | **52.53** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 43.51 (−9.02s) | ❌ 40.54 (−11.99s) |
-| 50 Fly | LCM | **53.50** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 39.49 (−14.01s) | ❌ 36.80 (−16.70s) |
+| 50 Fly | LCM | **51.44** | 2025-07-27 | 2025 MAC Summer  Invitational July 2 | 11 | ❌ 39.49 (−11.95s) | ❌ 36.80 (−14.64s) |
 | 100 Free | LCM | **1:23.10** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 1:10.68 (−12.42s) | ❌ 1:05.86 (−17.24s) |
 | 100 Back | LCM | **1:41.26** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 1:30.48 (−10.78s) | ❌ 1:24.31 (−16.95s) |
 | 200 Free | LCM | **3:14.38** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 2:51.78 (−22.60s) | ❌ 2:40.06 (−34.32s) |
@@ -37,10 +37,10 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 100 Free | SCM | **1:20.50** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:09.29 (−11.21s) | ❌ 1:04.25 (−16.25s) |
 | 100 Back | SCM | **1:32.04** | 2026-02-14 | GHAC Super Fun Development Meet #2 | 12 | ❌ 1:21.35 (−10.69s) | ❌ 1:15.43 (−16.61s) |
 | 100 Breast | SCM | **1:54.65** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:32.03 (−22.62s) | ❌ 1:25.33 (−29.32s) |
-| 200 Free | SCM | **2:59.16** | 2025-12-13 | GHAC Super Fun Development Meet #1 | 12 | ❌ 2:32.70 (−26.46s) | ❌ 2:21.60 (−37.56s) |
+| 200 Free | SCM | **2:59.14** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 2:32.70 (−26.44s) | ❌ 2:21.60 (−37.54s) |
 | 200 Back | SCM | **3:18.61** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | 12 | ❌ 2:56.47 (−22.14s) | ❌ 2:43.64 (−34.97s) |
 | 400 Free | SCM | **6:05.29** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | 12 | ❌ 5:21.00 (−44.29s) | ❌ 4:57.66 (−67.63s) |
-| 800 Free | SCM | **12:55.87** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 12 | ❌ 11:05.58 (−110.29s) | ❌ 10:17.17 (−158.70s) |
+| 800 Free | SCM | **12:17.38** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 11:05.58 (−71.80s) | ❌ 10:17.17 (−120.21s) |
 | 200 IM | SCM | **3:23.79** | 2026-03-07 | GHAC Winter Invitational 2026 | 12 | ❌ 2:52.89 (−30.90s) | ❌ 2:40.31 (−43.48s) |
 | **— NO STANDARD —** ||||||||
 | 1500 Free | SCM | **24:21.84** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 12 | — | — |
@@ -125,10 +125,13 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | **50 Free** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **38.02** | first |
 | **50 Back** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **46.70** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **44.94** | −1.76 |
-| **50 Breast** | 2026-04-11 | GHAC Spring Invitational 2026 | **52.53** | first |
+| **50 Breast** | 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | **1:03.05** | first |
+|  | 2026-04-11 | GHAC Spring Invitational 2026 | **52.53** | −10.52 |
 | **50 Fly** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **53.50** | first |
+|  | 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | **51.44** | −2.06 |
 | **100 Free** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **1:25.18** | first |
-|  | 2026-04-11 | GHAC Spring Invitational 2026 | **1:23.10** | −2.08 |
+|  | 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | **1:25.10** | −0.08 |
+|  | 2026-04-11 | GHAC Spring Invitational 2026 | **1:23.10** | −2.00 |
 | **100 Back** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **1:41.26** | first |
 | **200 Free** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **3:14.38** | first |
 
@@ -152,10 +155,13 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | **100 Breast** | 2025-11-09 | BAC Short Course Fall Invitational | **2:02.42** | first |
 |  | 2026-03-08 | GHAC Winter Invitational 2026 | **1:54.65** | −7.77 |
 | **200 Free** | 2025-12-13 | GHAC Super Fun Development Meet #1 | **2:59.16** | first |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | **2:59.14** | −0.02 |
 | **200 Back** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | **3:18.61** | first |
 | **400 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **6:19.44** | first |
 |  | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | **6:05.29** | −14.15 |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | 6:08.09 | +2.80 |
 | **800 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **12:55.87** | first |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | **12:17.38** | −38.49 |
 | **1500 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **24:21.84** | first |
 | **100 IM** | 2025-12-13 | GHAC Super Fun Development Meet #1 | **1:41.59** | first |
 | **200 IM** | 2025-11-18 | GHAC In-House Time Trial 2025-11-18 | **3:28.20** | first |
@@ -174,6 +180,9 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | 2025-06-21 | 2025 BAD Outdoor LC Invitational | LCM | 50 Fly | 53.50 |
 | 2025-06-22 | 2025 BAD Outdoor LC Invitational | LCM | 50 Free | 38.02 |
 | 2025-06-22 | 2025 BAD Outdoor LC Invitational | LCM | 50 Back | 46.70 |
+| 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | LCM | 100 Free | 1:25.10 |
+| 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | LCM | 50 Breast | 1:03.05 |
+| 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | LCM | 50 Fly | 51.44 |
 | 2025-11-09 | BAC Short Course Fall Invitational | SCM | 50 Free | 36.70 |
 | 2025-11-09 | BAC Short Course Fall Invitational | SCM | 50 Back | 44.51 |
 | 2025-11-09 | BAC Short Course Fall Invitational | SCM | 100 Breast | 2:02.42 |
@@ -202,5 +211,8 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | 2026-04-11 | GHAC Spring Invitational 2026 | LCM | 100 Free | 1:23.10 |
 | 2026-04-11 | GHAC Spring Invitational 2026 | LCM | 50 Back | 44.94 |
 | 2026-04-11 | GHAC Spring Invitational 2026 | LCM | 50 Breast | 52.53 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 200 Free | 2:59.14 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 400 Free | 6:08.09 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 800 Free | 12:17.38 |
 
 <!-- AUTOGEN:BOTTOM:END -->

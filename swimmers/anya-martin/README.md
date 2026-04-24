@@ -3,8 +3,8 @@
 - **SNC #:** 131013019
 - **DOB:** 2015-10-19
 - **Sex:** F
-- **Swims on record:** 39 across 11 meets
-- **Last refresh:** 2026-04-24 18:17 UTC
+- **Swims on record:** 42 across 12 meets
+- **Last refresh:** 2026-04-24 18:53 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -46,8 +46,9 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 100 Free | SCM | **1:29.01** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ❌ 1:23.60 (−5.41s) | ❌ 1:10.82 (−18.19s) |
 | 100 Back | SCM | **1:36.70** | 2026-02-14 | GHAC Super Fun Development Meet #2 | 10 | ❌ 1:35.70 (−1.00s) | ❌ 1:21.07 (−15.63s) |
 | 100 Breast | SCM | **2:03.07** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ❌ 1:49.95 (−13.12s) | ❌ 1:33.14 (−29.93s) |
-| 400 Free | SCM | **7:05.82** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 10 | ❌ 6:20.40 (−45.42s) | ❌ 5:22.24 (−103.58s) |
-| 800 Free | SCM | **14:32.13** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 10 | ❌ 13:06.80 (−85.33s) | ❌ 11:06.51 (−205.62s) |
+| 200 Free | SCM | **3:12.96** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 3:00.97 (−11.99s) | ❌ 2:33.30 (−39.66s) |
+| 400 Free | SCM | **6:40.34** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 6:20.40 (−19.94s) | ❌ 5:22.24 (−78.10s) |
+| 800 Free | SCM | **13:29.84** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 13:06.80 (−23.04s) | ❌ 11:06.51 (−143.33s) |
 | 200 IM | SCM | **3:38.99** | 2026-02-14 | GHAC Super Fun Development Meet #2 | 10 | ❌ 3:25.94 (−13.05s) | ❌ 2:55.23 (−43.76s) |
 | **— NO STANDARD —** ||||||||
 | 1500 Free | SCM | **27:23.56** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 10 | — | — |
@@ -163,10 +164,13 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 |  | 2026-02-14 | GHAC Super Fun Development Meet #2 | **1:36.70** | −4.44 |
 | **100 Breast** | 2025-11-09 | BAC Short Course Fall Invitational | **2:08.59** | first |
 |  | 2026-03-08 | GHAC Winter Invitational 2026 | **2:03.07** | −5.52 |
+| **200 Free** | 2026-04-22 | GHAC In-House Time Trial 800 Free | **3:12.96** | first |
 | **200 Back** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | **3:27.93** | first |
 |  | 2026-03-07 | GHAC Winter Invitational 2026 | **3:22.24** | −5.69 |
 | **400 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **7:05.82** | first |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | **6:40.34** | −25.48 |
 | **800 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **14:32.13** | first |
+|  | 2026-04-22 | GHAC In-House Time Trial 800 Free | **13:29.84** | −62.29 |
 | **1500 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **27:23.56** | first |
 | **100 IM** | 2025-12-13 | GHAC Super Fun Development Meet #1 | **1:44.97** | first |
 | **200 IM** | 2025-11-18 | GHAC In-House Time Trial 2025-11-18 | **3:45.57** | first |
@@ -217,5 +221,8 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 | 2026-04-17 | Lou Pocock Invitational 2026 | LCM | 100 Breast | 1:57.75 |
 | 2026-04-18 | Lou Pocock Invitational 2026 | LCM | 200 Free | 3:15.10 |
 | 2026-04-18 | Lou Pocock Invitational 2026 | LCM | 100 Back | 1:36.60 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 200 Free | 3:12.96 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 400 Free | 6:40.34 |
+| 2026-04-22 | GHAC In-House Time Trial 800 Free | SCM | 800 Free | 13:29.84 |
 
 <!-- AUTOGEN:BOTTOM:END -->
