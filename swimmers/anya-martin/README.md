@@ -61,7 +61,19 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
 
-_First analysis — 2026-04-23. Data through Lou Pocock Invitational (Apr 17–18, 2026), 39 swims across 11 meets._
+_Updated 2026-04-24. 42 swims across 11 meets, including a post-Pocock GHAC In-House 800 Free TT (Apr 22) that dropped 25.48s off her 400 Free and 62.29s off her 800 Free in a single session._
+
+### Post-Pocock distance TT (SCM, Apr 22)
+
+Four days after Pocock, a GHAC in-house time trial produced step-change drops on her distance events:
+
+| Event | Apr 22 | Prior PB (Jan 17) | Δ |
+|---|---|---|---|
+| **400 SC Free** | **6:40.34** | 7:05.82 | **−25.48** in 3 months |
+| **800 SC Free** | **13:29.84** | 14:32.13 | **−62.29** — a full minute off |
+| **200 SC Free** | **3:12.96** | — | first attempt (done as part of the distance set) |
+
+Not technique tweaks — this is the aerobic engine stepping up. 62 seconds off an 800 at age 10 is a category-shifting improvement. It also reframes her profile: she's not just a Back specialist, she has a genuine distance Free base.
 
 ### What the data says she's good at
 
@@ -71,12 +83,15 @@ _First analysis — 2026-04-23. Data through Lou Pocock Invitational (Apr 17–1
 | **50 Back LCM** | 48.91 → 45.35 → 45.19 — three consecutive PBs; WOSA-qualified |
 | **Back breadth** | All 4 of her WOSA qualifications are in Back events (50 LC, 100 LC, 50 SC, 200 SC) |
 | **200 Back SCM** | 3:22.24 — WOSA-qualified; dropped from 3:27.93 |
+| **Distance Free SCM** | 400 Free −25.48s and 800 Free −62.29s in one April session; the biggest single-session improvement in the record |
 | **100 Breast LCM** | 2:08.51 → 1:57.75 (Pocock) — first time under 2:00 |
-| **Event range** | 19 unique events on record; racing distance free, IM, and all strokes |
+| **Event range** | 22 unique events on record; racing distance free, IM, and all strokes |
 
 ### Profile and identity
 
-Anya's data has a clear identity: **Back specialist**. Every qualifying achievement so far is in a Back event — 50 Back LC and SC, 100 Back LC, 200 Back SC. The progression on 100 Back LCM (1:44.37 in Jun 2025 → 1:36.60 at Pocock, −7.77s) is her biggest absolute improvement. Her profile looks like a Back / middle-distance swimmer with a developing Breast and strong distance base.
+Anya's data shows a clear primary identity: **Back specialist**. Every qualifying achievement so far is in a Back event — 50 Back LC and SC, 100 Back LC, 200 Back SC. The progression on 100 Back LCM (1:44.37 in Jun 2025 → 1:36.60 at Pocock, −7.77s) is her biggest absolute improvement.
+
+The Apr 22 distance TT adds a second dimension: **Back specialist with an emerging distance Free**. Dropping 62 seconds off an 800 Free in 3 months isn't a side event progressing — that's a genuine distance engine. Her profile is now Back / middle-distance with a real distance Free capacity, not just a filler distance base.
 
 ### Structural observations
 
@@ -92,8 +107,8 @@ Set Jun 2025 at age 9. She hasn't swum LC 50 Free since — didn't enter it at G
 **4. No Fly events on record.**
 39 swims and not a single Fly. For a swimmer with a Back foundation, Fly is the natural complement — similar underwater timing, core-heavy technique. Its absence at age 10 limits future IM development. Even a 50 Fly debut (SCM or LCM) would give the coaching staff useful data.
 
-**5. SCM distance base is solid.**
-400/800/1500 Free in the same January time-trial session. These are developmental benchmarks but show a swimmer who can sustain effort over distance. That base will matter for 200 Back and 200 IM development.
+**5. SCM distance base just got serious.**
+Jan 17 time trial established baselines (7:05.82 / 14:32.13 / 26:32.22 on 400/800/1500). Apr 22 time trial took those baselines down by 25.48s (400) and 62.29s (800) in one session. That's not a developmental benchmark anymore — it's real distance capacity. The 200 Back WOSA qualification was already evidence of aerobic base; the Apr 22 drops confirm it at longer distances.
 
 ### WOSA / OAG trajectory
 
