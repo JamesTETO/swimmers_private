@@ -3,15 +3,21 @@
 - **SNC #:** 140214581
 - **DOB:** 2018-04-04
 - **Sex:** M
-- **Swims on record:** 15 across 5 meets
-- **Last refresh:** 2026-04-24 18:53 UTC
+- **Swims on record:** 17 across 6 meets
+- **Last refresh:** 2026-05-25 22:32 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** No new meet — William did **not** swim Lou Pocock. Most recent meet in record is GHAC Spring Invitational LCM (Apr 10–12).
+**Meet:** GHAC May Invitational 2026 (May 24) — **first LCM meet ever, at age 8**
 
-At age 7 he's below the typical 10&U age-group standards, so the "Qualifying status" table compares his PBs against the 10&U cuts as an early benchmark. Expect this section to become more active as he ages into the 10&U competitive window.
+**2 LCM debuts in 2 swims:**
+- 🎉 **50 Free LCM 49.69** (first) — first long-course 50 Free
+- 🎉 **50 Breast LCM 1:03.96** (first) — first long-course 50 Breast
+
+His SC 50 Free PB is 51.86; the 49.69 LC is faster despite the longer pool (no extra wall to push off). Either the SC PB is stale or LC race conditions suit him — either way, a meaningful first LC data point.
+
+At age 8 he's still below the typical 10&U age-group standards, so the qualifying table compares his PBs against the 10&U cuts as an early benchmark. Expect more LC entries this summer.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -23,6 +29,9 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 | Event | Course | PB | Date | Meet | Age | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|---|---|
+| **— NOT YET QUALIFIED —** ||||||||
+| 50 Free | LCM | **49.69** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 38.72 (−10.97s) | ❌ 32.87 (−16.82s) |
+| 50 Breast | LCM | **1:03.96** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 51.46 (−12.50s) | ❌ 43.59 (−20.37s) |
 | **— NO STANDARD —** ||||||||
 | 25 Back | SCM | **30.16** | 2025-11-23 | GHAC Fall Invitational | 7 | — | — |
 | 25 Breast | SCM | **34.41** | 2025-11-23 | GHAC Fall Invitational | 7 | — | — |
@@ -38,11 +47,20 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
 
-_First analysis — 2026-04-23. Data through GHAC Winter Invitational (Mar 7–8, 2026), 15 swims across 5 meets._
+_Updated 2026-05-25. 17 swims across 6 meets. GHAC May Invitational (May 24) was his first LCM meet ever — at age 8._
 
 ### Overview
 
-William is 7 years old and in his first competitive swim season. The data reflects 5 meets from November 2025 through March 2026, all SCM. At this stage, the most meaningful indicators are **trajectory** (are times improving?) and **consistency** (are improvements sticking?). The numbers say yes on both counts.
+William is 8 years old (turned 8 on Apr 4, 2026) and in his first competitive swim season. The data reflects 6 meets from November 2025 through May 2026 — five SCM meets and his **first LCM meet ever** at GHAC May Invitational. At this stage, the most meaningful indicators are **trajectory** (are times improving?) and **consistency** (are improvements sticking?). The numbers say yes on both counts.
+
+### LCM debut (GHAC May Invitational, May 24)
+
+| Event | LCM | Comparable SCM (date) | Note |
+|---|---|---|---|
+| **50 Free** | **49.69** | 51.86 (Mar 7) | LC actually 2.17s **faster** than his most recent SCM — suggests the SC PB was stale or his form is improving rapidly |
+| **50 Breast** | **1:03.96** | 1:06.85 (Mar 7) | 2.89s **faster** than SC, same direction |
+
+LC times faster than SC times is unusual — in a longer pool with one fewer wall to push off, the LC time should normally be slower. Two possible explanations: (1) the March SCM PBs are now stale and his real ability has advanced significantly in 2.5 months, or (2) the LC conditions (less turn dependency, less crowded lane) suit him at this developmental stage. Either way, the LC numbers are now the more honest baseline.
 
 ### Event-by-event
 
@@ -62,16 +80,24 @@ Four swims: 1:11.28 → 1:07.64 → 1:03.81 → 1:02.20 — every appearance is 
 
 ### What to watch for
 
-- **First sub-50 50 Free** — he's at 51.86; sub-50 is a natural near-term milestone.
-- **Sub-1:00 50 Back** — currently 1:02.20; that's close.
-- **LCM debut** — no LCM appearances yet. The first LC meet will produce different times; the 50 Back and 50 Free will be interesting comparisons to the SCM numbers.
+- **First sub-50 50 Free LCM** — he's at 49.69 on his first LC swim. Sub-50 milestone effectively achieved on debut. SC sub-50 may not be far behind.
+- **Sub-1:00 50 Back SCM** — still at 1:02.20 from March. A re-swim at the next SCM meet may already be sub-1:00 given the LC pattern.
+- **LCM Back debut** — May Inv gave us LC Free and Breast. LC Back is the next data point.
 - **100 Back or 100 Breast debut** — as he moves up in distance, these will start to appear and will add to the picture.
+- **Approaching 10&U standards** — at age 8 he's still well below the 10&U cuts, but the comparison gap is narrowing as he develops. By age 9–10 the qualifying numbers will start being meaningful.
 
 <!-- ANALYSIS:END -->
 
 <!-- AUTOGEN:BOTTOM:START — data below is regenerated by swim.py, do not edit -->
 
 ## Progression by event
+
+### LCM
+
+| Event | Date | Meet | Time | Δ |
+|---|---|---|---|---|
+| **50 Free** | 2026-05-24 | GHAC May Invitational 2026 | **49.69** | first |
+| **50 Breast** | 2026-05-24 | GHAC May Invitational 2026 | **1:03.96** | first |
 
 ### SCM
 
@@ -114,5 +140,7 @@ Four swims: 1:11.28 → 1:07.64 → 1:03.81 → 1:02.20 — every appearance is 
 | 2026-03-07 | GHAC Winter Invitational 2026 | SCM | 50 Breast | 1:06.85 |
 | 2026-03-08 | GHAC Winter Invitational 2026 | SCM | 100 Free | 1:55.84 |
 | 2026-03-08 | GHAC Winter Invitational 2026 | SCM | 50 Back | 1:02.20 |
+| 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Free | 49.69 |
+| 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Breast | 1:03.96 |
 
 <!-- AUTOGEN:BOTTOM:END -->
