@@ -3,22 +3,22 @@
 - **SNC #:** 131013019
 - **DOB:** 2015-10-19
 - **Sex:** F
-- **Swims on record:** 45 across 13 meets
-- **Last refresh:** 2026-05-25 22:32 UTC
+- **Swims on record:** 50 across 14 meets
+- **Last refresh:** 2026-06-09 16:55 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** GHAC May Invitational 2026 (May 24)
+**Meet:** 2026 Western Region LC Championships (WOSA, Jun 5–6)
 
-**1 PB + 1 event debut in 3 swims:**
-- 🎉 **50 Free LCM 40.80** (−2.59 vs stale Jun 2025 time at age 9) — closed half the WOSA gap in one swim (was 4.59s under, now 2.00s)
-- 🎉 **200 Back LCM 3:29.72** (first) — **0.63s from WOSA** on debut, narrowest LC WOSA gap she has
-- 50 Back LCM 45.58 (+0.39 vs Pocock 45.19) — minor regression
+**2 PBs + 3 regressions in 5 swims — Breast peaked, Back didn't:**
+- 🎉 **100 Breast LCM 1:53.00** (−4.75) — first sub-1:55; **WOSA −0.84s** (was −5.59s away)
+- 🎉 **50 Breast LCM 53.20** (−1.20) — both Breast events PB'd at WOSA
+- 50 Back LCM 46.19 (+1.00 vs Pocock PB) — Back regressed
+- 100 Back LCM 1:38.64 (+2.04 vs Pocock PB) — Back regressed
+- 50 Free LCM 42.30 (+1.50 vs May PB) — regression
 
-**Qualifying movement:** 200 Back LCM is now her closest LC WOSA cut at any distance. The 50 Free LCM finally has an honest baseline.
-
-_See Analysis for the Lou Pocock breakthrough (Apr 17–18) and the post-Pocock 800 Free TT (Apr 22) that dropped 62.29s off her 800 Free._
+**Qualifying movement:** 100 Breast LCM now within 0.84s of WOSA (was 5.59s in April). **Split-stroke story:** Breast events both PB'd; Back events all regressed despite Back being her qualifying foundation. Possibly tapered for Breast over Back, or technique work on Back hasn't compounded yet.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -37,9 +37,9 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 200 Back | SCM | **3:22.24** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ✅ 3:24.99 (+2.75s) | ❌ 2:53.65 (−28.59s) |
 | **— NOT YET QUALIFIED —** ||||||||
 | 50 Free | LCM | **40.80** | 2026-05-24 | GHAC May Invitational 2026 | 10 | ❌ 38.80 (−2.00s) | ❌ 32.81 (−7.99s) |
-| 50 Breast | LCM | **54.40** | 2026-04-11 | GHAC Spring Invitational 2026 | 10 | ❌ 51.84 (−2.56s) | ❌ 43.91 (−10.49s) |
+| 50 Breast | LCM | **53.20** | 2026-06-06 | 2026 Western Region LC Championships | 10 | ❌ 51.84 (−1.36s) | ❌ 43.91 (−9.29s) |
 | 100 Free | LCM | **1:28.06** | 2026-04-11 | GHAC Spring Invitational 2026 | 10 | ❌ 1:25.41 (−2.65s) | ❌ 1:12.23 (−15.83s) |
-| 100 Breast | LCM | **1:57.75** | 2026-04-17 | Lou Pocock Invitational 2026 | 10 | ❌ 1:52.16 (−5.59s) | ❌ 1:35.01 (−22.74s) |
+| 100 Breast | LCM | **1:53.00** | 2026-06-05 | 2026 Western Region LC Championships | 10 | ❌ 1:52.16 (−0.84s) | ❌ 1:35.01 (−17.99s) |
 | 200 Free | LCM | **3:15.10** | 2026-04-18 | Lou Pocock Invitational 2026 | 10 | ❌ 3:04.90 (−10.20s) | ❌ 2:36.36 (−38.74s) |
 | 200 Back | LCM | **3:29.72** | 2026-05-24 | GHAC May Invitational 2026 | 10 | ❌ 3:29.09 (−0.63s) | ❌ 2:57.12 (−32.60s) |
 | 50 Free | SCM | **40.83** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ❌ 37.97 (−2.86s) | ❌ 32.16 (−8.67s) |
@@ -62,7 +62,24 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
 
-_Updated 2026-05-25. 45 swims across 12 meets. GHAC May Invitational (May 24) added a 200 Back LCM debut (3:29.72 — within 0.63s of WOSA) and finally updated the stale Jun-2025 LC 50 Free._
+_Updated 2026-06-09. 50 swims across 13 meets. **2026 Western Region LC Championships (WOSA, Jun 5–6)** delivered split results — both Breast events PB'd (100 LC Breast first sub-1:55, now WOSA −0.84s), while all three Back/Free regressions were vs recent PBs, complicating her Back-specialist identity._
+
+### Western Region LC Championships takeaways (WOSA, Jun 5–6)
+
+| Event | WOSA | Prior PB (date) | Δ |
+|---|---|---|---|
+| 🎉 **100 Breast** | **1:53.00** | 1:57.75 (Apr 17) | **−4.75** PB — first sub-1:55 LC; **WOSA −0.84s** (was −5.59s) |
+| 🎉 **50 Breast** | **53.20** | 54.40 (Apr 11) | **−1.20** PB |
+| 50 Back | 46.19 | 45.19 (Apr 17) | +1.00 — Back regression |
+| 100 Back | 1:38.64 | 1:36.60 (Apr 18) | +2.04 — Back regression |
+| 50 Free | 42.30 | 40.80 (May 24) | +1.50 — regression |
+
+**Split-stroke story.** Both Breast events PB'd at the championship meet; all three Back/Free swims regressed off recent PBs. This is unusual: a tapered championship meet should produce broad improvement, not stroke-selective improvement. Two readings:
+
+1. **Possible Breast-focused taper.** The training cycle may have emphasized Breast specifically in the weeks before WOSA. The 100 Breast LCM dropped 4.75s — a real result, not noise.
+2. **Possible Back plateau.** Three Back/Free regressions (50 Back, 100 Back, 50 Free) against recent PBs suggests these events may have peaked at Pocock/May. A plateau or technique change disrupting them is also possible.
+
+The 100 Breast LCM moving from −5.59s to **−0.84s** of WOSA in one meet is the biggest single-event qualifying movement of her record. Breast may be a viable second qualifying stroke alongside Back if this continues.
 
 ### GHAC May Invitational takeaways (LCM, May 24)
 
@@ -132,11 +149,11 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 
 ### Areas of focus — ranked by likely impact
 
-1. **Convert 200 Back LCM to WOSA (−0.63s)** — debut at 3:29.72; cut is 3:29.09. A second clean swim almost certainly qualifies it.
-2. **Convert 50 Free LCM to WOSA (−2.00s)** — May Inv halved the gap; next LC meet should close it.
-3. **Turn/wall efficiency on Back events** — the SC≈LC anomaly on 100 Back is still the clearest technical signal. Fixing the turn would add 1–2s of SCM advantage and lift all Back distances.
-4. **Race 50 Fly** — still no Fly on record. May Inv was another LC opportunity without it. The IM pathway depends on this.
-5. **Push 100 Breast LCM toward WOSA** — 5.59s to close. Within reach in 1–2 LC meets if it's entered.
+1. **Convert 100 Breast LCM to WOSA (−0.84s)** — newly closest LC WOSA cut. Was −5.59s in April; a 4.75s drop at WOSA brings it within striking distance.
+2. **Diagnose the Back regression** — three Back swims at WOSA all regressed off PBs (50 Back +1.00, 100 Back +2.04, plus 200 Back wasn't entered). If this is two LC meets in a row going wrong on Back, it's now a real pattern, not a single bad day.
+3. **Convert 200 Back LCM to WOSA (−0.63s)** — May Inv debut at 3:29.72. Skipped at WOSA. Next LC meet should close it if Back form returns.
+4. **Race 50 Fly** — still no Fly on record after 50 swims and 13 meets. Most conspicuous remaining gap.
+5. **Convert 50 Free LCM to WOSA (−2.00s)** — May Inv halved the gap; WOSA regressed slightly. Still within reach.
 
 ### What to watch for
 
@@ -156,19 +173,24 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 |---|---|---|---|---|
 | **50 Free** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **43.39** | first |
 |  | 2026-05-24 | GHAC May Invitational 2026 | **40.80** | −2.59 |
+|  | 2026-06-06 | 2026 Western Region LC Championships | 42.30 | +1.50 |
 | **50 Back** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **48.91** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **45.35** | −3.56 |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | **45.19** | −0.16 |
 |  | 2026-05-24 | GHAC May Invitational 2026 | 45.58 | +0.39 |
+|  | 2026-06-05 | 2026 Western Region LC Championships | 46.19 | +1.00 |
 | **50 Breast** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **59.02** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **54.40** | −4.62 |
+|  | 2026-06-06 | 2026 Western Region LC Championships | **53.20** | −1.20 |
 | **100 Free** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **1:32.88** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **1:28.06** | −4.82 |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | 1:28.76 | +0.70 |
 | **100 Back** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **1:44.37** | first |
 |  | 2026-04-18 | Lou Pocock Invitational 2026 | **1:36.60** | −7.77 |
+|  | 2026-06-06 | 2026 Western Region LC Championships | 1:38.64 | +2.04 |
 | **100 Breast** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **2:08.51** | first |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | **1:57.75** | −10.76 |
+|  | 2026-06-05 | 2026 Western Region LC Championships | **1:53.00** | −4.75 |
 | **200 Free** | 2026-04-18 | Lou Pocock Invitational 2026 | **3:15.10** | first |
 | **200 Back** | 2026-05-24 | GHAC May Invitational 2026 | **3:29.72** | first |
 
@@ -256,5 +278,10 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Free | 40.80 |
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Back | 45.58 |
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 200 Back | 3:29.72 |
+| 2026-06-05 | 2026 Western Region LC Championships | LCM | 50 Back | 46.19 |
+| 2026-06-05 | 2026 Western Region LC Championships | LCM | 100 Breast | 1:53.00 |
+| 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Free | 42.30 |
+| 2026-06-06 | 2026 Western Region LC Championships | LCM | 100 Back | 1:38.64 |
+| 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Breast | 53.20 |
 
 <!-- AUTOGEN:BOTTOM:END -->
