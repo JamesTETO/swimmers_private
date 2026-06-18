@@ -11,7 +11,8 @@
       1592,
       1594,
       1596,
-      1807
+      1807,
+      2972
     ]
   },
   "results": [
@@ -183,6 +184,46 @@
       "distance": 50,
       "stroke": "C",
       "time": "63.96",
+      "course": "L"
+    },
+    {
+      "rems": 2972,
+      "meet": "GHAC Sprint in the Sun Outdoor Invitational",
+      "meet_start": "06142026",
+      "date": "06142026",
+      "distance": 50,
+      "stroke": "A",
+      "time": "49.70",
+      "course": "L"
+    },
+    {
+      "rems": 2972,
+      "meet": "GHAC Sprint in the Sun Outdoor Invitational",
+      "meet_start": "06142026",
+      "date": "06142026",
+      "distance": 100,
+      "stroke": "A",
+      "time": "109.35",
+      "course": "L"
+    },
+    {
+      "rems": 2972,
+      "meet": "GHAC Sprint in the Sun Outdoor Invitational",
+      "meet_start": "06142026",
+      "date": "06142026",
+      "distance": 50,
+      "stroke": "B",
+      "time": "62.21",
+      "course": "L"
+    },
+    {
+      "rems": 2972,
+      "meet": "GHAC Sprint in the Sun Outdoor Invitational",
+      "meet_start": "06142026",
+      "date": "06142026",
+      "distance": 50,
+      "stroke": "C",
+      "time": "67.64",
       "course": "L"
     }
   ]

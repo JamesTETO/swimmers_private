@@ -3,21 +3,23 @@
 - **SNC #:** 140214581
 - **DOB:** 2018-04-04
 - **Sex:** M
-- **Swims on record:** 17 across 6 meets
-- **Last refresh:** 2026-06-09 16:55 UTC
+- **Swims on record:** 21 across 7 meets
+- **Last refresh:** 2026-06-18 18:27 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** GHAC May Invitational 2026 (May 24) — **first LCM meet ever, at age 8**
+**Meet:** GHAC Sprint in the Sun Outdoor Invitational (Jun 14) — second LCM meet ever
 
-**2 LCM debuts in 2 swims:**
-- 🎉 **50 Free LCM 49.69** (first) — first long-course 50 Free
-- 🎉 **50 Breast LCM 1:03.96** (first) — first long-course 50 Breast
+**2 LCM debuts + 2 prior-event swims:**
+- 🎉 **100 Free LCM 1:49.35** (first) — LC 100 Free debut; 6.49s **faster** than his SC PB (1:55.84) despite the longer pool
+- 🎉 **50 Back LCM 1:02.21** (first) — LC 50 Back debut; essentially identical to his SC PB (1:02.20)
+- **50 Free LCM 49.70** (+0.01 vs May 24 debut) — essentially repeat; second consecutive LC 50 Free under 50 seconds
+- 50 Breast LCM 1:07.64 (+3.68 vs May 24 PB 1:03.96) — only regression; possibly fatigued after stronger first day
 
-His SC 50 Free PB is 51.86; the 49.69 LC is faster despite the longer pool (no extra wall to push off). Either the SC PB is stale or LC race conditions suit him — either way, a meaningful first LC data point.
+The **LC 100 Free debut at 1:49.35 vs the SC 100 Free PB at 1:55.84** is striking — a 6.49s gap in the wrong direction. Same pattern as 50 Free LC vs SC last month (49.69 LC vs 51.86 SC). Either the SC PBs are stale, or his stroke rhythm currently fits LC better. The 50 Back LC at 1:02.21 lines up exactly with his SC PB (1:02.20), so the pattern isn't universal.
 
-At age 8 he's still below the typical 10&U age-group standards, so the qualifying table compares his PBs against the 10&U cuts as an early benchmark. Expect more LC entries this summer.
+At age 8 he's still below the typical 10&U age-group standards.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -31,7 +33,9 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 |---|---|---|---|---|---|---|---|
 | **— NOT YET QUALIFIED —** ||||||||
 | 50 Free | LCM | **49.69** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 38.72 (−10.97s) | ❌ 32.87 (−16.82s) |
+| 50 Back | LCM | **1:02.21** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 8 | ❌ 46.59 (−15.62s) | ❌ 39.46 (−22.75s) |
 | 50 Breast | LCM | **1:03.96** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 51.46 (−12.50s) | ❌ 43.59 (−20.37s) |
+| 100 Free | LCM | **1:49.35** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 8 | ❌ 1:25.62 (−23.73s) | ❌ 1:12.53 (−36.82s) |
 | **— NO STANDARD —** ||||||||
 | 25 Back | SCM | **30.16** | 2025-11-23 | GHAC Fall Invitational | 7 | — | — |
 | 25 Breast | SCM | **34.41** | 2025-11-23 | GHAC Fall Invitational | 7 | — | — |
@@ -47,20 +51,28 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
 
-_Updated 2026-05-25. 17 swims across 6 meets. GHAC May Invitational (May 24) was his first LCM meet ever — at age 8._
+_Updated 2026-06-18. 21 swims across 7 meets. Second LCM meet (GHAC Sprint in the Sun, Jun 14) added two more LC debuts (100 Free, 50 Back) — and confirmed the LC-faster-than-SC pattern noted at May Inv._
 
 ### Overview
 
 William is 8 years old (turned 8 on Apr 4, 2026) and in his first competitive swim season. The data reflects 6 meets from November 2025 through May 2026 — five SCM meets and his **first LCM meet ever** at GHAC May Invitational. At this stage, the most meaningful indicators are **trajectory** (are times improving?) and **consistency** (are improvements sticking?). The numbers say yes on both counts.
 
-### LCM debut (GHAC May Invitational, May 24)
+### LCM debuts across two meets (May 24 + Jun 14)
 
-| Event | LCM | Comparable SCM (date) | Note |
+| Event | LCM PB | SCM PB | LC vs SC |
 |---|---|---|---|
-| **50 Free** | **49.69** | 51.86 (Mar 7) | LC actually 2.17s **faster** than his most recent SCM — suggests the SC PB was stale or his form is improving rapidly |
-| **50 Breast** | **1:03.96** | 1:06.85 (Mar 7) | 2.89s **faster** than SC, same direction |
+| **50 Free** | 49.69 (May 24) | 51.86 (Mar 7) | **−2.17s** LC is faster |
+| **100 Free** | 1:49.35 (Jun 14, debut) | 1:55.84 (Mar 8) | **−6.49s** LC is faster |
+| **50 Back** | 1:02.21 (Jun 14, debut) | 1:02.20 (Mar 8) | essentially tied |
+| **50 Breast** | 1:03.96 (May 24) | 1:06.85 (Mar 7) | **−2.89s** LC is faster |
 
-LC times faster than SC times is unusual — in a longer pool with one fewer wall to push off, the LC time should normally be slower. Two possible explanations: (1) the March SCM PBs are now stale and his real ability has advanced significantly in 2.5 months, or (2) the LC conditions (less turn dependency, less crowded lane) suit him at this developmental stage. Either way, the LC numbers are now the more honest baseline.
+Three of his four LC events are **faster than the SC equivalents**, sometimes by a wide margin (100 Free 6.49s faster, 50 Breast 2.89s faster). In a longer pool with one fewer wall, LC should normally be slower. Three readings:
+
+1. **The March SCM PBs are stale** — most likely. He's improved meaningfully in the 2-3 months since GHAC Winter Inv, and the SC numbers will likely drop dramatically at the next SC meet.
+2. **LC race conditions suit him at this stage** — possible. Less turn dependency, more swimming, less "wall game" — at age 8 the wall execution may not be a strength yet.
+3. **50 Back is the exception** — the only event where LC = SC. May indicate that Back-specific underwaters/turns are already a relative strength for him, holding the SC time up.
+
+For now, **treat the LC times as the more honest baselines**. Expect SC times to drop noticeably at the next SC meet to align with the LC reality.
 
 ### Event-by-event
 
@@ -80,11 +92,12 @@ Four swims: 1:11.28 → 1:07.64 → 1:03.81 → 1:02.20 — every appearance is 
 
 ### What to watch for
 
-- **First sub-50 50 Free LCM** — he's at 49.69 on his first LC swim. Sub-50 milestone effectively achieved on debut. SC sub-50 may not be far behind.
-- **Sub-1:00 50 Back SCM** — still at 1:02.20 from March. A re-swim at the next SCM meet may already be sub-1:00 given the LC pattern.
-- **LCM Back debut** — May Inv gave us LC Free and Breast. LC Back is the next data point.
-- **100 Back or 100 Breast debut** — as he moves up in distance, these will start to appear and will add to the picture.
-- **Approaching 10&U standards** — at age 8 he's still well below the 10&U cuts, but the comparison gap is narrowing as he develops. By age 9–10 the qualifying numbers will start being meaningful.
+- **Sub-49 50 Free LCM** — two consecutive LC 50 Frees at 49.69 / 49.70 (essentially identical). Next milestone is sub-49.
+- **Sub-1:00 50 Back SCM** — still at 1:02.20 from March; the LC 50 Back at 1:02.21 confirms it. A re-swim at the next SC meet should pop given how stale the rest of his SC PBs look.
+- **Sub-1:00 50 Back LCM** — LC debut was 1:02.21 (essentially tied with SC). Next LC meet likely breaks 1:00 if the broader improvement trend holds.
+- **First 100 Back or 100 Breast** — still no 100 Back on record, and no 100 Breast either; LC 100 Free debut at Sprint in the Sun is the first 100-distance entry.
+- **Updated SC baselines** — when he next races SC, expect significant drops on at least 50 Free / 100 Free / 50 Breast to align with the LC reality.
+- **Approaching 10&U standards** — at age 8 he's still well below the 10&U cuts, but the gap narrows each meet. By age 9–10 the qualifying numbers start being meaningful.
 
 <!-- ANALYSIS:END -->
 
@@ -97,7 +110,11 @@ Four swims: 1:11.28 → 1:07.64 → 1:03.81 → 1:02.20 — every appearance is 
 | Event | Date | Meet | Time | Δ |
 |---|---|---|---|---|
 | **50 Free** | 2026-05-24 | GHAC May Invitational 2026 | **49.69** | first |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | 49.70 | +0.01 |
+| **50 Back** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | **1:02.21** | first |
 | **50 Breast** | 2026-05-24 | GHAC May Invitational 2026 | **1:03.96** | first |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | 1:07.64 | +3.68 |
+| **100 Free** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | **1:49.35** | first |
 
 ### SCM
 
@@ -142,5 +159,9 @@ Four swims: 1:11.28 → 1:07.64 → 1:03.81 → 1:02.20 — every appearance is 
 | 2026-03-08 | GHAC Winter Invitational 2026 | SCM | 50 Back | 1:02.20 |
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Free | 49.69 |
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Breast | 1:03.96 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Free | 49.70 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 100 Free | 1:49.35 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Back | 1:02.21 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Breast | 1:07.64 |
 
 <!-- AUTOGEN:BOTTOM:END -->

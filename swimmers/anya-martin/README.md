@@ -3,8 +3,8 @@
 - **SNC #:** 131013019
 - **DOB:** 2015-10-19
 - **Sex:** F
-- **Swims on record:** 50 across 14 meets
-- **Last refresh:** 2026-06-09 16:55 UTC
+- **Swims on record:** 54 across 15 meets
+- **Last refresh:** 2026-06-18 18:26 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -19,6 +19,16 @@
 - 50 Free LCM 42.30 (+1.50 vs May PB) — regression
 
 **Qualifying movement:** 100 Breast LCM now within 0.84s of WOSA (was 5.59s in April). **Split-stroke story:** Breast events both PB'd; Back events all regressed despite Back being her qualifying foundation. Possibly tapered for Breast over Back, or technique work on Back hasn't compounded yet.
+
+### GHAC Sprint in the Sun Outdoor Invitational (Jun 14)
+
+A non-tapered developmental meet one week post-WOSA. **4 regressions in 4 swims:**
+- 50 Free LCM 42.98 (+2.18 vs May 24 PB)
+- 100 Free LCM 1:35.75 (+7.69 vs Apr 11 PB)
+- 50 Back LCM 45.82 (+0.63 vs Pocock PB)
+- 50 Breast LCM 56.02 (+2.82 vs WOSA PB)
+
+Context: outdoor invitational, no taper, race-for-practice mode. None of her PBs are at risk; the qualifying picture from WOSA is unchanged. The 100 Free regression of 7.69s tracks more like a recovery-week effort than a peak attempt.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -174,17 +184,21 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 | **50 Free** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **43.39** | first |
 |  | 2026-05-24 | GHAC May Invitational 2026 | **40.80** | −2.59 |
 |  | 2026-06-06 | 2026 Western Region LC Championships | 42.30 | +1.50 |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | 42.98 | +2.18 |
 | **50 Back** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **48.91** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **45.35** | −3.56 |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | **45.19** | −0.16 |
 |  | 2026-05-24 | GHAC May Invitational 2026 | 45.58 | +0.39 |
 |  | 2026-06-05 | 2026 Western Region LC Championships | 46.19 | +1.00 |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | 45.82 | +0.63 |
 | **50 Breast** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **59.02** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **54.40** | −4.62 |
 |  | 2026-06-06 | 2026 Western Region LC Championships | **53.20** | −1.20 |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | 56.02 | +2.82 |
 | **100 Free** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **1:32.88** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **1:28.06** | −4.82 |
 |  | 2026-04-17 | Lou Pocock Invitational 2026 | 1:28.76 | +0.70 |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | 1:35.75 | +7.69 |
 | **100 Back** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **1:44.37** | first |
 |  | 2026-04-18 | Lou Pocock Invitational 2026 | **1:36.60** | −7.77 |
 |  | 2026-06-06 | 2026 Western Region LC Championships | 1:38.64 | +2.04 |
@@ -283,5 +297,9 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 | 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Free | 42.30 |
 | 2026-06-06 | 2026 Western Region LC Championships | LCM | 100 Back | 1:38.64 |
 | 2026-06-06 | 2026 Western Region LC Championships | LCM | 50 Breast | 53.20 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Free | 42.98 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 100 Free | 1:35.75 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Back | 45.82 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Breast | 56.02 |
 
 <!-- AUTOGEN:BOTTOM:END -->

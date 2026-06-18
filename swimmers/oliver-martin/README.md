@@ -3,22 +3,23 @@
 - **SNC #:** 129236737
 - **DOB:** 2013-09-17
 - **Sex:** M
-- **Swims on record:** 43 across 13 meets
-- **Last refresh:** 2026-06-09 16:55 UTC
+- **Swims on record:** 47 across 14 meets
+- **Last refresh:** 2026-06-18 18:26 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** GHAC May Invitational 2026 (May 24)
+**Meet:** GHAC Sprint in the Sun Outdoor Invitational (Jun 14)
 
-**1 event debut in 3 swims:**
-- 🎉 **200 Back LCM 3:18.62** (first) — new event, matches his SCM 200 Back (3:18.61) almost exactly
-- 50 Free LCM 38.09 (+0.07 vs Jun 2025 BAD 38.02) — essentially tied an 11-month-old time
-- 50 Back LCM 45.14 (+0.20 vs Spring 44.94) — minor regression
+**4 PBs in 4 swims — clean sweep at a non-tapered summer meet:**
+- 🎉 **100 Back LCM 1:39.14** (−2.12 vs stale Jun 2025) — closes a year-old stale PB
+- 🎉 **100 Free LCM 1:22.07** (−1.03 vs Apr 11) — fourth consecutive LC PB (1:25.18 → 1:25.10 → 1:23.10 → 1:22.07)
+- 🎉 **50 Free LCM 37.08** (−0.94 vs Jun 2025 BAD) — finally drops below the year-old time; tied at 38.09 at May Inv, now under
+- 🎉 **50 Back LCM 44.45** (−0.49 vs Apr 11)
 
-**Notable:** The 200 Back LC ≈ 200 Back SC anomaly (3:18.62 ≈ 3:18.61) is striking — over 200m, SCM should be several seconds faster with 3 extra turns. Same SC≈LC pattern seen in his profile suggests a meaningful wall/turn efficiency gap that affects all longer events.
+**Notable:** Four PBs at a non-tapered outdoor invitational is a real sign of fitness gains. The 50 Free LCM in particular had been stuck near 38.02 for a year (the SCM regression pattern showed up on LC too). Breaking 37.50 with a clean PB suggests the engine work from the Apr 22 800 Free TT is starting to translate to sprint events.
 
-_See Analysis for the post-Pocock distance TT (Apr 22) that dropped 38.49s off his 800 Free._
+_See Analysis for the GHAC May Invitational (May 24) and the post-Pocock distance TT (Apr 22)._
 
 <!-- HIGHLIGHTS:END -->
 
@@ -31,12 +32,12 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | Event | Course | PB | Date | Meet | Age | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|---|---|
 | **— NOT YET QUALIFIED —** ||||||||
-| 50 Free | LCM | **38.02** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 35.20 (−2.82s) | ❌ 32.87 (−5.15s) |
-| 50 Back | LCM | **44.94** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 38.39 (−6.55s) | ❌ 35.77 (−9.17s) |
+| 50 Free | LCM | **37.08** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 32.31 (−4.77s) | ❌ 30.10 (−6.98s) |
+| 50 Back | LCM | **44.45** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 38.39 (−6.06s) | ❌ 35.77 (−8.68s) |
 | 50 Breast | LCM | **52.53** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 43.51 (−9.02s) | ❌ 40.54 (−11.99s) |
 | 50 Fly | LCM | **51.44** | 2025-07-27 | 2025 MAC Summer  Invitational July 2 | 11 | ❌ 39.49 (−11.95s) | ❌ 36.80 (−14.64s) |
-| 100 Free | LCM | **1:23.10** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 1:10.68 (−12.42s) | ❌ 1:05.86 (−17.24s) |
-| 100 Back | LCM | **1:41.26** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 1:30.48 (−10.78s) | ❌ 1:24.31 (−16.95s) |
+| 100 Free | LCM | **1:22.07** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 1:10.68 (−11.39s) | ❌ 1:05.86 (−16.21s) |
+| 100 Back | LCM | **1:39.14** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 1:22.97 (−16.17s) | ❌ 1:17.32 (−21.82s) |
 | 200 Free | LCM | **3:14.38** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 2:51.78 (−22.60s) | ❌ 2:40.06 (−34.32s) |
 | 200 Back | LCM | **3:18.62** | 2026-05-24 | GHAC May Invitational 2026 | 12 | ❌ 3:00.00 (−18.62s) | ❌ 2:47.73 (−30.89s) |
 | 50 Free | SCM | **36.70** | 2025-11-09 | BAC Short Course Fall Invitational | 12 | ❌ 31.67 (−5.03s) | ❌ 29.37 (−7.33s) |
@@ -61,7 +62,18 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
 
-_Updated 2026-05-25. 43 swims across 13 meets. GHAC May Invitational (May 24) added a 200 Back LCM debut — and revealed a striking SC≈LC anomaly: 200 Back SC 3:18.61 and 200 Back LC 3:18.62 are essentially identical, the same wall-efficiency pattern that's visible on 50 Free._
+_Updated 2026-06-18. 47 swims across 14 meets. **GHAC Sprint in the Sun (Jun 14)** delivered a 4-PB sweep at a non-tapered outdoor meet — first time the LCM sprints have improved meaningfully since BAD a year ago._
+
+### GHAC Sprint in the Sun takeaways (LCM, Jun 14)
+
+| Event | Sprint | Prior PB (date) | Δ |
+|---|---|---|---|
+| 🎉 **100 Back** | **1:39.14** | 1:41.26 (Jun 2025 BAD) | **−2.12** PB — closes year-old stale PB |
+| 🎉 **100 Free** | **1:22.07** | 1:23.10 (Apr 11) | **−1.03** PB — fourth consecutive LC 100 Free PB |
+| 🎉 **50 Free** | **37.08** | 38.02 (Jun 2025 BAD) | **−0.94** PB — finally drops below year-old stale time |
+| 🎉 **50 Back** | **44.45** | 44.94 (Apr 11) | **−0.49** PB |
+
+Four PBs at a non-tapered outdoor invitational is unusual and meaningful. Two of these (50 Free, 100 Back) had been stale since BAD a year ago — the LCM sprint progression that was missing from his record is finally showing up. The 50 Free SCM regression flagged for months may also be turning: if LC 50 Free can break 37, the SC version (currently stuck at 36.70) likely follows.
 
 ### GHAC May Invitational takeaways (LCM, May 24)
 
@@ -104,8 +116,8 @@ No qualifying times yet — the 11-12 male WOSA cuts are genuinely competitive (
 
 ### Structural observations
 
-**1. 50 Free SCM is going the wrong way.**
-PB 36.70 (Nov 2025) → 36.96 (Fall Inv) → 37.43 (Winter Inv). Three consecutive swims moving in the wrong direction over 4 months — this is a real regression, not random noise. Several interpretations: training emphasis shifted to distance/IM; technique is in transition; or the November swim was a genuine outlier peak. Worth a conversation with his coach. The LCM 50 Free (38.02, Jun 2025) is also stale and will likely update in summer 2026.
+**1. 50 Free SCM was going the wrong way — LC is now resolving.**
+SCM PB 36.70 (Nov 2025) → 36.96 → 37.43 (Winter Inv) — three consecutive swims wrong direction. The LCM 50 Free was also stuck at 38.02 (Jun 2025) and then tied at 38.09 (May Inv). At Sprint in the Sun (Jun 14) it finally moved to **37.08** — a clean 0.94s PB at a non-tapered meet. The LC unlock suggests the SCM stall is solvable too. Next SCM cycle should be the test.
 
 **2. The distance base is legitimate — and now under 12:20 on 800.**
 Jan time trial: 12:55.87. Apr 22 time trial: **12:17.38** (−38.49s in 3 months). Paired with the 400 Free SCM dropping 14s in two weeks (Jan 17 → Jan 31), the aerobic capacity is not just developing — it's accelerating. This base typically translates to 200 Back / 200 IM development in the next 1–2 seasons.
@@ -154,9 +166,11 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 |---|---|---|---|---|
 | **50 Free** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **38.02** | first |
 |  | 2026-05-24 | GHAC May Invitational 2026 | 38.09 | +0.07 |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | **37.08** | −0.94 |
 | **50 Back** | 2025-06-22 | 2025 BAD Outdoor LC Invitational | **46.70** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **44.94** | −1.76 |
 |  | 2026-05-24 | GHAC May Invitational 2026 | 45.14 | +0.20 |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | **44.45** | −0.49 |
 | **50 Breast** | 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | **1:03.05** | first |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **52.53** | −10.52 |
 | **50 Fly** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **53.50** | first |
@@ -164,7 +178,9 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | **100 Free** | 2025-06-21 | 2025 BAD Outdoor LC Invitational | **1:25.18** | first |
 |  | 2025-07-27 | 2025 MAC Summer  Invitational July 24- 27 | **1:25.10** | −0.08 |
 |  | 2026-04-11 | GHAC Spring Invitational 2026 | **1:23.10** | −2.00 |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | **1:22.07** | −1.03 |
 | **100 Back** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **1:41.26** | first |
+|  | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | **1:39.14** | −2.12 |
 | **200 Free** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | **3:14.38** | first |
 | **200 Back** | 2026-05-24 | GHAC May Invitational 2026 | **3:18.62** | first |
 
@@ -250,5 +266,9 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Free | 38.09 |
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 50 Back | 45.14 |
 | 2026-05-24 | GHAC May Invitational 2026 | LCM | 200 Back | 3:18.62 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Free | 37.08 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 100 Free | 1:22.07 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Back | 44.45 |
+| 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 100 Back | 1:39.14 |
 
 <!-- AUTOGEN:BOTTOM:END -->
