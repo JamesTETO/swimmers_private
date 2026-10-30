@@ -3,23 +3,24 @@
 - **SNC #:** 129236737
 - **DOB:** 2013-09-17
 - **Sex:** M
-- **Swims on record:** 47 across 14 meets
-- **Last refresh:** 2026-06-18 18:26 UTC
+- **Swims on record:** 50 across 15 meets
+- **Last refresh:** 2026-10-30 13:06 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** GHAC Sprint in the Sun Outdoor Invitational (Jun 14)
+**Meet:** GHAC Fall Invitational 2026 (Oct 24): SCM season opener, first meet at age 13
 
-**4 PBs in 4 swims — clean sweep at a non-tapered summer meet:**
-- 🎉 **100 Back LCM 1:39.14** (−2.12 vs stale Jun 2025) — closes a year-old stale PB
-- 🎉 **100 Free LCM 1:22.07** (−1.03 vs Apr 11) — fourth consecutive LC PB (1:25.18 → 1:25.10 → 1:23.10 → 1:22.07)
-- 🎉 **50 Free LCM 37.08** (−0.94 vs Jun 2025 BAD) — finally drops below the year-old time; tied at 38.09 at May Inv, now under
-- 🎉 **50 Back LCM 44.45** (−0.49 vs Apr 11)
+**3 PBs in 3 swims, a clean sweep to open the 2026-27 season:**
+- 🎉 **200 Back SCM 3:10.85** (−7.76 vs Jan 31): biggest drop of the day, now 7.77s faster than his LCM 3:18.62
+- 🎉 **50 Free SCM 35.13** (−1.57 vs Nov 2025): ends a three-swim slide (36.70 → 36.96 → 37.43); −1.83 vs this same meet a year ago
+- 🎉 **200 Breast SCM 3:48.61**: event debut, averaging 1:54.3 per 100, already under his 100 Breast PB (1:54.65)
 
-**Notable:** Four PBs at a non-tapered outdoor invitational is a real sign of fitness gains. The 50 Free LCM in particular had been stuck near 38.02 for a year (the SCM regression pattern showed up on LC too). Breaking 37.50 with a clean PB suggests the engine work from the Apr 22 800 Free TT is starting to translate to sprint events.
+**Qualifying:** nothing gained; none of the three has a cut on the table. He turned 13 on Sep 17, and standards.json maps 13 to a 13&U band it does not hold yet, so all three sit under _No standard_. 50 Free SCM and 200 Back SCM moved there from _Not yet qualified_.
 
-_See Analysis for the GHAC May Invitational (May 24) and the post-Pocock distance TT (Apr 22)._
+**Notable:** The two SCM events flagged as problems last season both answered at the first chance. The 50 Free stall that June's LC PB hinted was fixable has been fixed, and the 200 Back no longer looks like an SC≈LC anomaly. Opening with three PBs after four months without racing says the summer's LC gains carried over to short course.
+
+_See Analysis for the season picture, the age-up's effect on the qualifying table, and ranked next steps._
 
 <!-- HIGHLIGHTS:END -->
 
@@ -40,18 +41,19 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 100 Back | LCM | **1:39.14** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 1:22.97 (−16.17s) | ❌ 1:17.32 (−21.82s) |
 | 200 Free | LCM | **3:14.38** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 2:51.78 (−22.60s) | ❌ 2:40.06 (−34.32s) |
 | 200 Back | LCM | **3:18.62** | 2026-05-24 | GHAC May Invitational 2026 | 12 | ❌ 3:00.00 (−18.62s) | ❌ 2:47.73 (−30.89s) |
-| 50 Free | SCM | **36.70** | 2025-11-09 | BAC Short Course Fall Invitational | 12 | ❌ 31.67 (−5.03s) | ❌ 29.37 (−7.33s) |
 | 50 Back | SCM | **43.10** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 37.64 (−5.46s) | ❌ 34.90 (−8.20s) |
 | 50 Breast | SCM | **52.93** | 2026-03-07 | GHAC Winter Invitational 2026 | 12 | ❌ 42.65 (−10.28s) | ❌ 39.55 (−13.38s) |
 | 100 Free | SCM | **1:20.50** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:09.29 (−11.21s) | ❌ 1:04.25 (−16.25s) |
 | 100 Back | SCM | **1:32.04** | 2026-02-14 | GHAC Super Fun Development Meet #2 | 12 | ❌ 1:21.35 (−10.69s) | ❌ 1:15.43 (−16.61s) |
 | 100 Breast | SCM | **1:54.65** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:32.03 (−22.62s) | ❌ 1:25.33 (−29.32s) |
 | 200 Free | SCM | **2:59.14** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 2:32.70 (−26.44s) | ❌ 2:21.60 (−37.54s) |
-| 200 Back | SCM | **3:18.61** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | 12 | ❌ 2:56.47 (−22.14s) | ❌ 2:43.64 (−34.97s) |
 | 400 Free | SCM | **6:05.29** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | 12 | ❌ 5:21.00 (−44.29s) | ❌ 4:57.66 (−67.63s) |
 | 800 Free | SCM | **12:17.38** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 11:05.58 (−71.80s) | ❌ 10:17.17 (−120.21s) |
 | 200 IM | SCM | **3:23.79** | 2026-03-07 | GHAC Winter Invitational 2026 | 12 | ❌ 2:52.89 (−30.90s) | ❌ 2:40.31 (−43.48s) |
 | **— NO STANDARD —** ||||||||
+| 50 Free | SCM | **35.13** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | — | — |
+| 200 Back | SCM | **3:10.85** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | — | — |
+| 200 Breast | SCM | **3:48.61** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | — | — |
 | 1500 Free | SCM | **24:21.84** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 12 | — | — |
 | 100 IM | SCM | **1:41.59** | 2025-12-13 | GHAC Super Fun Development Meet #1 | 12 | — | — |
 
@@ -62,97 +64,56 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with his actual coach._
 
-_Updated 2026-06-18. 47 swims across 14 meets. **GHAC Sprint in the Sun (Jun 14)** delivered a 4-PB sweep at a non-tapered outdoor meet — first time the LCM sprints have improved meaningfully since BAD a year ago._
+_Updated 2026-10-30. 50 swims across 15 meets (10 SCM, 5 LCM). **GHAC Fall Invitational (Oct 24)** opened the 2026-27 SC season with three PBs from three swims, his first meet at 13._
 
-### GHAC Sprint in the Sun takeaways (LCM, Jun 14)
+### GHAC Fall Invitational takeaways (SCM, Oct 24)
 
-| Event | Sprint | Prior PB (date) | Δ |
+| Event | Oct 24 | Prior PB (date) | Δ |
 |---|---|---|---|
-| 🎉 **100 Back** | **1:39.14** | 1:41.26 (Jun 2025 BAD) | **−2.12** PB — closes year-old stale PB |
-| 🎉 **100 Free** | **1:22.07** | 1:23.10 (Apr 11) | **−1.03** PB — fourth consecutive LC 100 Free PB |
-| 🎉 **50 Free** | **37.08** | 38.02 (Jun 2025 BAD) | **−0.94** PB — finally drops below year-old stale time |
-| 🎉 **50 Back** | **44.45** | 44.94 (Apr 11) | **−0.49** PB |
-
-Four PBs at a non-tapered outdoor invitational is unusual and meaningful. Two of these (50 Free, 100 Back) had been stale since BAD a year ago — the LCM sprint progression that was missing from his record is finally showing up. The 50 Free SCM regression flagged for months may also be turning: if LC 50 Free can break 37, the SC version (currently stuck at 36.70) likely follows.
-
-### GHAC May Invitational takeaways (LCM, May 24)
-
-| Event | May | Prior PB (date) | Δ |
-|---|---|---|---|
-| 🎉 **200 Back** | **3:18.62** | — | first LC 200 Back |
-| 50 Free | 38.09 | 38.02 (Jun 2025) | +0.07 — essentially tied an 11-month-old time |
-| 50 Back | 45.14 | 44.94 (Apr 11) | +0.20 — minor regression |
-
-**The 200 Back SC≈LC observation is the most informative datapoint.** SCM 3:18.61 vs LCM 3:18.62 — a 0.01s difference. Over 200m, SCM should be 3–5 seconds faster from the extra turns. This is the same wall-efficiency pattern visible on 50 Free SCM (going slightly slower over time despite all other events improving). The wall/turn issue isn't isolated to one stroke — it's a structural feature of his racing, and over distance the cost compounds.
-
-### Post-Pocock distance TT (SCM, Apr 22)
-
-Four days after GHAC Spring, a GHAC in-house time trial produced the biggest single-session improvement in his record:
-
-| Event | Apr 22 | Prior PB | Δ |
-|---|---|---|---|
-| **800 SC Free** | **12:17.38** | 12:55.87 (Jan 17) | **−38.49** in 3 months |
-| 400 SC Free | 6:08.09 | 6:05.29 (Jan 31) | +2.80 — done as part of the distance set |
-| 200 SC Free | 2:59.14 | 2:59.16 (Dec) | −0.02, essentially tied |
-
-A sub-12:20 800 Free at age 12 is a serious mark. The 400 was effectively flat because he'd already raced it at GHAC SC Last Chance a few weeks earlier; the 800 is the headline. Engine base confirmed at distance.
-
-### What the data says he's good at
-
-| Event | Evidence |
-|---|---|
-| **Distance Free SCM** | 800 Free **12:17.38** (−38.49s Apr 22); 1500 Free 24:21.84; 400 Free 6:19.44 → 6:05.29 (−14.15s in 2 weeks) |
-| **100 Breast SCM** | 2:02.42 → 1:54.65 — 7.77s improvement, biggest absolute drop of any race event |
-| **100 Back SCM** | 1:35.91 → 1:32.04 — consistent improvement, never regressed |
-| **200 IM SCM** | 3:28.20 (Nov) → 3:23.79 (Mar) — net improvement despite mid-season bump |
-| **LCM meet volume** | Now 3 LC meets on record (BAD Jun 2025, MAC Summer Jul 2025, GHAC Spring Apr 2026) — richer LC baseline than originally visible |
-| **Event breadth** | All 4 strokes on LCM, distance Free + IM on SCM; widest event range in the GHAC group |
+| 🎉 **200 Back** | **3:10.85** | 3:18.61 (Jan 31) | **−7.76** PB |
+| 🎉 **50 Free** | **35.13** | 36.70 (Nov 2025) | **−1.57** PB, ends a three-swim slide |
+| 🎉 **200 Breast** | **3:48.61** | — | first 200 Breast in either course |
 
 ### Profile
 
-Oliver is age 12 and building a clear **distance / IM profile**. The 800 and 1500 Free SCM appearances alongside 200 IM, 100 Back, and 100 Breast suggest a coaching approach that values engine development over sprint specialization — a well-founded strategy at 12.
+Oliver turned 13 on Sep 17 and is the oldest swimmer on the GHAC pages. The data still says **distance freestyler with Back and Breast as his stroke strengths**: 800 Free SCM 12:17.38, 200 Back 3:10.85, Breast gains in both courses. New since spring is the sprint Free: 50 Free PBs in both courses at his last two meets, and four straight LCM 100 Free PBs.
 
-No qualifying times yet — the 11-12 male WOSA cuts are genuinely competitive (35.20 on 50 Free LCM, 1:10.68 on 100 Free LCM). The current PBs are not close to qualifying level in any event, but the improvement rates across multiple events suggest the times will come as the engine develops.
+### Strengths
+
+| Strength | Evidence |
+|---|---|
+| **Distance Free SCM** | 800 Free 12:55.87 → **12:17.38** (Jan → Apr); 400 Free −14.15s in two weeks. Fastest 800 among the GHAC swimmers tracked here (all younger) by about 50s |
+| **Breaststroke** | 100 Breast SCM −7.77s in one season; 50 Breast LCM −10.52s in nine months; 200 Breast debut at 1:54.3 per 100 |
+| **Backstroke** | 200 Back SCM −7.76s; 100 Back −3.87s SCM and −2.12s LCM |
+| **Turning rest into PBs** | Last 7 swims all PBs (4/4 Jun 14, 3/3 Oct 24): a non-tapered outdoor meet, then four months without racing |
+
+### Development gaps
+
+- **Butterfly is the thinnest stroke.** He has never raced Fly short course, and his only Fly PB (50 Fly LCM 51.44, Jul 2025) is 15 months old and proportionally the furthest from its WOSA cut (−11.95s). Every other tracked GHAC teammate has SC Fly.
+- **200 IM is unsettled.** 3:28.20 → 3:30.94 → 3:23.79 last season, and with no Fly data the limiting leg can't be read from results.
+- **A backlog of age-12 PBs.** 100 Back (Feb), 100 Free, 100 Breast, 50 Back and 200 IM (all Mar) haven't been raced since the age-up.
 
 ### Structural observations
 
-**1. 50 Free SCM was going the wrong way — LC is now resolving.**
-SCM PB 36.70 (Nov 2025) → 36.96 → 37.43 (Winter Inv) — three consecutive swims wrong direction. The LCM 50 Free was also stuck at 38.02 (Jun 2025) and then tied at 38.09 (May Inv). At Sprint in the Sun (Jun 14) it finally moved to **37.08** — a clean 0.94s PB at a non-tapered meet. The LC unlock suggests the SCM stall is solvable too. Next SCM cycle should be the test.
+**1. The 50 Free SCM stall is over.** 36.70 → 36.96 → 37.43 → **35.13**. June's LC PB (37.08) suggested the SC version would follow; it did, at the first chance.
 
-**2. The distance base is legitimate — and now under 12:20 on 800.**
-Jan time trial: 12:55.87. Apr 22 time trial: **12:17.38** (−38.49s in 3 months). Paired with the 400 Free SCM dropping 14s in two weeks (Jan 17 → Jan 31), the aerobic capacity is not just developing — it's accelerating. This base typically translates to 200 Back / 200 IM development in the next 1–2 seasons.
+**2. The walls-and-turns case has lost its two best datapoints.** It rested on the 200 Back SC≈LC (3:18.61 vs 3:18.62) and the 50 Free SC slide. SC now beats LC by 7.77s on 200 Back and 1.95s on 50 Free, wider than the SC/LC spread in the age-12 cuts (about 3.5–4s and 0.6–0.7s). The pairs span months and an age-up, so his turns aren't proven fine, just no longer the lead issue; a same-season SC and LC 200 Back would settle it.
 
-**3. 100 Breast is the most improved event.**
-7.77s in one season (2:02.42 → 1:54.65) — the biggest single-event drop in the record. Breast is the hardest stroke to develop technically, so sustained improvement usually indicates quality coaching focus. Continue prioritizing it.
-
-**4. 200 IM variance needs watching.**
-3:28.20 (Nov), 3:30.94 (Feb — regression), 3:23.79 (Mar — recovery, new PB). The mid-season regression suggests the IM components aren't all firing together yet — normal at 12, but worth examining which leg is limiting. Fly is the likeliest culprit given his event history.
-
-**5. LCM record filled in by MAC Summer (Jul 24–27, 2025).**
-Originally read as BAD (Jun 2025) → GHAC Spring (Apr 2026) — a 10-month gap. The MAC Summer meet sits between them: 100 Free 1:25.10 (essentially flat vs BAD), 50 Fly 51.44 (−2.06 vs BAD), and first 50 Breast LCM at 1:03.05 (later dropped to 52.53 by Apr — a 10.52s drop in 9 months). LCM development wasn't dormant; it just wasn't visible before the refresh. Summer 2026 should add meaningful LCM data.
+**3. The 200 Breast says the 100 Breast PB is stale.** A 200 averaging 1:54.3 per 100 already sits under his March 100 PB of 1:54.65.
 
 ### Path to qualifying times
 
-The 11-12 male WOSA cuts are challenging. Current PBs vs nearest cuts:
-- **50 Free LCM** — 38.02 vs 35.20 cut (−2.82s to go) — shortest gap but going backward on SCM
-- **100 Free LCM** — 1:23.10 vs 1:10.68 cut (−12.4s to go — a longer runway)
-- **50 Back LCM** — 44.94 vs 38.39 cut (−6.55s to go)
+No qualifying times yet. standards.json maps age 13 to a 13&U band it doesn't contain, so every swim at 13 lands under _No standard_; the ❌ rows left are age-11/12 PBs and will move there as he re-swims them. The closest are the age-12 LCM gaps: 50 Free −4.77s to WOSA, 50 Back −6.06s, 100 Free −11.39s. For scale only, not as a status: against the age-12 SC WOSA cuts, the 50 Free gap went from 5.03s to 3.46s and the 200 Back gap from 22.14s to 14.38s. Cuts get faster with each year of age (WOSA 50 Free SCM: 38.04 → 34.58 → 31.67 across 10&U/11/12), so treat those gaps as a floor. Narrowing them is the realistic 2026-27 goal.
 
-The realistic target for 2026-2027 should be narrowing these gaps significantly, not necessarily qualifying in the first year of 12-year-old competition. The trajectory is right; the cuts will come as the engine matures.
+### Next steps, ranked by likely impact
 
-### Areas of focus — ranked by likely impact
+1. **Back up the 50 Free SCM.** After three swims going the wrong way, one PB isn't a trend; a second sub-36 confirms it.
+2. **Debut SC Fly (50 Fly SCM).** Closes his only stroke/course gap, replaces a 15-month-old PB, and gives the 200 IM its missing datapoint.
+3. **Race a 100 Breast SCM.** The 200 says 1:54.65 is overdue; anything under 1:54 confirms it.
+4. **Re-race 200 IM (3:23.79) and 100 Back (1:32.04).** Once Fly is in the record, the IM's weak leg becomes identifiable.
+5. **Distance re-test.** The 800 (12:17.38, Apr) and 400 (6:05.29, Jan) predate the age-up; watch for a winter time trial.
 
-1. **Walls and turns are now the clearest structural issue** — 50 Free SCM regression + 200 Back SC≈LC + 800 Free progression all point in the same direction. Wall/turn efficiency is leaving meaningful seconds on the table across his entire event range. The single highest-ROI training focus available.
-2. **Investigate the 50 Free SCM regression** — three swims trending wrong (36.70 → 36.96 → 37.43). LC 50 Free at May Inv essentially tied his June 2025 time. This event is genuinely stuck.
-3. **More LC meet opportunities** — three LC meets on record now (BAD Jun 2025, MAC Summer Jul 2025, GHAC May 2026). Summer 2026 should add more.
-4. **200 IM consistency** — identify the weak leg (likely Fly) and stabilize it. Clean IM racing = faster times.
-5. **Race a 200 Free LCM** — only one record (3:14.38, Jun 2025). Likely to update significantly given SCM 200 Free (2:59.14) and the distance base.
-
-### What to watch for
-
-- **GHAC Summer LC Inv (May 22–24):** 200 Free LCM update; 50 Free LCM — does it recover from the SCM regression?
-- **2026-2027 SCM season:** Does 50 Free reverse course? Can 200 IM become consistent?
-- **Any 400 LC / 800 LC appearances** — he has the engine; the question is whether the coaching staff tests it at distance on LC.
+Summer 2027 LC: a 200 Back LCM to test the SC/LC gap directly, and a 200 Free LCM to replace the Jun 2025 3:14.38.
 
 <!-- ANALYSIS:END -->
 
@@ -191,6 +152,7 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | **50 Free** | 2025-11-09 | BAC Short Course Fall Invitational | **36.70** | first |
 |  | 2025-11-23 | GHAC Fall Invitational | 36.96 | +0.26 |
 |  | 2026-03-07 | GHAC Winter Invitational 2026 | 37.43 | +0.73 |
+|  | 2026-10-24 | GHAC Fall Invitational 2026 | **35.13** | −1.57 |
 | **50 Back** | 2025-11-09 | BAC Short Course Fall Invitational | **44.51** | first |
 |  | 2026-03-08 | GHAC Winter Invitational 2026 | **43.10** | −1.41 |
 | **50 Breast** | 2025-11-23 | GHAC Fall Invitational | **55.21** | first |
@@ -206,6 +168,8 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | **200 Free** | 2025-12-13 | GHAC Super Fun Development Meet #1 | **2:59.16** | first |
 |  | 2026-04-22 | GHAC In-House Time Trial 800 Free | **2:59.14** | −0.02 |
 | **200 Back** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | **3:18.61** | first |
+|  | 2026-10-24 | GHAC Fall Invitational 2026 | **3:10.85** | −7.76 |
+| **200 Breast** | 2026-10-24 | GHAC Fall Invitational 2026 | **3:48.61** | first |
 | **400 Free** | 2026-01-17 | GHAC In-House Time Trial Group 2 2025-01-17 | **6:19.44** | first |
 |  | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | **6:05.29** | −14.15 |
 |  | 2026-04-22 | GHAC In-House Time Trial 800 Free | 6:08.09 | +2.80 |
@@ -270,5 +234,8 @@ The realistic target for 2026-2027 should be narrowing these gaps significantly,
 | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 100 Free | 1:22.07 |
 | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Back | 44.45 |
 | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 100 Back | 1:39.14 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 50 Free | 35.13 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 200 Back | 3:10.85 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 200 Breast | 3:48.61 |
 
 <!-- AUTOGEN:BOTTOM:END -->

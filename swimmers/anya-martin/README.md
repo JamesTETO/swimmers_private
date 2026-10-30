@@ -3,32 +3,22 @@
 - **SNC #:** 131013019
 - **DOB:** 2015-10-19
 - **Sex:** F
-- **Swims on record:** 54 across 15 meets
-- **Last refresh:** 2026-06-18 18:26 UTC
+- **Swims on record:** 57 across 16 meets
+- **Last refresh:** 2026-10-30 13:06 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
 
-**Meet:** 2026 Western Region LC Championships (WOSA, Jun 5–6)
+**Meet:** GHAC Fall Invitational 2026 (SCM, Oct 24): first meet of the 2026-27 season, and her first at age 11.
 
-**2 PBs + 3 regressions in 5 swims — Breast peaked, Back didn't:**
-- 🎉 **100 Breast LCM 1:53.00** (−4.75) — first sub-1:55; **WOSA −0.84s** (was −5.59s away)
-- 🎉 **50 Breast LCM 53.20** (−1.20) — both Breast events PB'd at WOSA
-- 50 Back LCM 46.19 (+1.00 vs Pocock PB) — Back regressed
-- 100 Back LCM 1:38.64 (+2.04 vs Pocock PB) — Back regressed
-- 50 Free LCM 42.30 (+1.50 vs May PB) — regression
+**1 PB + 1 match + 1 debut in 3 swims. She opened the season at last season's peak:**
+- 🎉 **100 Free SCM 1:28.60** (−0.41 vs Mar 8 PB 1:29.01)
+- 50 Free SCM 40.84 (+0.01 vs Mar 7 PB 40.83), effectively matched
+- 🎉 **50 Fly SCM 50.08**: first Fly race on record, after 54 swims across 15 meets without one
 
-**Qualifying movement:** 100 Breast LCM now within 0.84s of WOSA (was 5.59s in April). **Split-stroke story:** Breast events both PB'd; Back events all regressed despite Back being her qualifying foundation. Possibly tapered for Breast over Back, or technique work on Back hasn't compounded yet.
+**Qualifying movement:** none. She turned 11 on Oct 19, so the table now measures new swims against the WOSA 11 cuts (2025-26 values; 2026-27 cuts are not on file). That is why the 100 Free SC PB shows −12.60s to WOSA (1:16.00); against the 10&U cut (1:23.60) it would read −5.00. Her four ✅ Back rows are last season's 10&U marks. OAG is unaffected, because she stays in the 11&U band.
 
-### GHAC Sprint in the Sun Outdoor Invitational (Jun 14)
-
-A non-tapered developmental meet one week post-WOSA. **4 regressions in 4 swims:**
-- 50 Free LCM 42.98 (+2.18 vs May 24 PB)
-- 100 Free LCM 1:35.75 (+7.69 vs Apr 11 PB)
-- 50 Back LCM 45.82 (+0.63 vs Pocock PB)
-- 50 Breast LCM 56.02 (+2.82 vs WOSA PB)
-
-Context: outdoor invitational, no taper, race-for-practice mode. None of her PBs are at risk; the qualifying picture from WOSA is unchanged. The 100 Free regression of 7.69s tracks more like a recovery-week effort than a peak attempt.
+**Context:** at this same meet a year ago she swam the 50 Free SC in 42.62. This year it was 40.84 (−1.78) on opening day. Last season she needed until March to reach 40.83; this season she started there. That makes June's four-regression outdoor meet look like end-of-season fatigue rather than a stall. She entered no Back or Breast, so the June Back-form question is still open.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -54,7 +44,8 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 | 200 Back | LCM | **3:29.72** | 2026-05-24 | GHAC May Invitational 2026 | 10 | ❌ 3:29.09 (−0.63s) | ❌ 2:57.12 (−32.60s) |
 | 50 Free | SCM | **40.83** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ❌ 37.97 (−2.86s) | ❌ 32.16 (−8.67s) |
 | 50 Breast | SCM | **55.31** | 2026-03-07 | GHAC Winter Invitational 2026 | 10 | ❌ 50.82 (−4.49s) | ❌ 43.11 (−12.20s) |
-| 100 Free | SCM | **1:29.01** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ❌ 1:23.60 (−5.41s) | ❌ 1:10.82 (−18.19s) |
+| 50 Fly | SCM | **50.08** | 2026-10-24 | GHAC Fall Invitational 2026 | 11 | ❌ 38.35 (−11.73s) | ❌ 35.74 (−14.34s) |
+| 100 Free | SCM | **1:28.60** | 2026-10-24 | GHAC Fall Invitational 2026 | 11 | ❌ 1:16.00 (−12.60s) | ❌ 1:10.82 (−17.78s) |
 | 100 Back | SCM | **1:36.70** | 2026-02-14 | GHAC Super Fun Development Meet #2 | 10 | ❌ 1:35.70 (−1.00s) | ❌ 1:21.07 (−15.63s) |
 | 100 Breast | SCM | **2:03.07** | 2026-03-08 | GHAC Winter Invitational 2026 | 10 | ❌ 1:49.95 (−13.12s) | ❌ 1:33.14 (−29.93s) |
 | 200 Free | SCM | **3:12.96** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 10 | ❌ 3:00.97 (−11.99s) | ❌ 2:33.30 (−39.66s) |
@@ -72,104 +63,49 @@ Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming
 
 _Disclaimer: not a coach's analysis. Pattern-reading from the data above. Verify with her actual coach._
 
-_Updated 2026-06-09. 50 swims across 13 meets. **2026 Western Region LC Championships (WOSA, Jun 5–6)** delivered split results — both Breast events PB'd (100 LC Breast first sub-1:55, now WOSA −0.84s), while all three Back/Free regressions were vs recent PBs, complicating her Back-specialist identity._
+_Updated 2026-10-30. 57 swims across 16 meets. **GHAC Fall Invitational 2026 (SCM, Oct 24)** opened the 2026-27 season and was her first meet at age 11._
 
-### Western Region LC Championships takeaways (WOSA, Jun 5–6)
+### Fall Invitational takeaways (SCM, Oct 24)
 
-| Event | WOSA | Prior PB (date) | Δ |
+| Event | Oct 24 | Prior PB (date) | Δ |
 |---|---|---|---|
-| 🎉 **100 Breast** | **1:53.00** | 1:57.75 (Apr 17) | **−4.75** PB — first sub-1:55 LC; **WOSA −0.84s** (was −5.59s) |
-| 🎉 **50 Breast** | **53.20** | 54.40 (Apr 11) | **−1.20** PB |
-| 50 Back | 46.19 | 45.19 (Apr 17) | +1.00 — Back regression |
-| 100 Back | 1:38.64 | 1:36.60 (Apr 18) | +2.04 — Back regression |
-| 50 Free | 42.30 | 40.80 (May 24) | +1.50 — regression |
+| 🎉 **100 Free SC** | **1:28.60** | 1:29.01 (Mar 8) | **−0.41** PB |
+| 50 Free SC | 40.84 | 40.83 (Mar 7) | +0.01, matched |
+| 🎉 **50 Fly SC** | **50.08** | — | first Fly on record |
 
-**Split-stroke story.** Both Breast events PB'd at the championship meet; all three Back/Free swims regressed off recent PBs. This is unusual: a tapered championship meet should produce broad improvement, not stroke-selective improvement. Two readings:
-
-1. **Possible Breast-focused taper.** The training cycle may have emphasized Breast specifically in the weeks before WOSA. The 100 Breast LCM dropped 4.75s — a real result, not noise.
-2. **Possible Back plateau.** Three Back/Free regressions (50 Back, 100 Back, 50 Free) against recent PBs suggests these events may have peaked at Pocock/May. A plateau or technique change disrupting them is also possible.
-
-The 100 Breast LCM moving from −5.59s to **−0.84s** of WOSA in one meet is the biggest single-event qualifying movement of her record. Breast may be a viable second qualifying stroke alongside Back if this continues.
-
-### GHAC May Invitational takeaways (LCM, May 24)
-
-| Event | May | Prior PB (date) | Δ |
-|---|---|---|---|
-| 🎉 **50 Free** | **40.80** | 43.39 (Jun 2025, age 9) | **−2.59** PB — closes 11-month-stale PB; halved the WOSA gap (4.59 → 2.00) |
-| 🎉 **200 Back** | **3:29.72** | — | first; **−0.63s from WOSA** on debut — narrowest LC WOSA gap she has |
-| 50 Back | 45.58 | 45.19 (Apr 17) | +0.39 — minor regression on tightest Back event |
-
-The 200 Back LC debut is the more significant of the two. Her Back identity now extends across 50/100/200 on LCM — and the 200 Back is the closest LC WOSA cut at any distance. A second 200 Back attempt at the next LC meet likely qualifies it.
-
-### Post-Pocock distance TT (SCM, Apr 22)
-
-Four days after Pocock, a GHAC in-house time trial produced step-change drops on her distance events:
-
-| Event | Apr 22 | Prior PB (Jan 17) | Δ |
-|---|---|---|---|
-| **400 SC Free** | **6:40.34** | 7:05.82 | **−25.48** in 3 months |
-| **800 SC Free** | **13:29.84** | 14:32.13 | **−62.29** — a full minute off |
-| **200 SC Free** | **3:12.96** | — | first attempt (done as part of the distance set) |
-
-Not technique tweaks — this is the aerobic engine stepping up. 62 seconds off an 800 at age 10 is a category-shifting improvement. It also reframes her profile: she's not just a Back specialist, she has a genuine distance Free base.
-
-### What the data says she's good at
-
-| Event | Evidence |
-|---|---|
-| **100 Back LCM** | 1:44.37 → 1:36.60 — dropped 7.77s at Pocock; WOSA-qualified |
-| **50 Back LCM** | 48.91 → 45.35 → 45.19 — three consecutive PBs; WOSA-qualified |
-| **Back breadth** | All 4 of her WOSA qualifications are in Back events (50 LC, 100 LC, 50 SC, 200 SC) |
-| **200 Back SCM** | 3:22.24 — WOSA-qualified; dropped from 3:27.93 |
-| **Distance Free SCM** | 400 Free −25.48s and 800 Free −62.29s in one April session; the biggest single-session improvement in the record |
-| **100 Breast LCM** | 2:08.51 → 1:57.75 (Pocock) — first time under 2:00 |
-| **Event range** | 22 unique events on record; racing distance free, IM, and all strokes |
+What matters is the starting level. Last season she opened SC at 42.62 in the 50 Free (this meet, Nov 2025) and didn't reach 40.83 until March. This season she opened there. That makes June's all-regression meet look like end-of-season fatigue, not a stall.
 
 ### Profile and identity
 
-Anya's data shows a clear primary identity: **Back specialist**. Every qualifying achievement so far is in a Back event — 50 Back LC and SC, 100 Back LC, 200 Back SC. The progression on 100 Back LCM (1:44.37 in Jun 2025 → 1:36.60 at Pocock, −7.77s) is her biggest absolute improvement.
+**Back specialist with a distance-Free engine and a late-arriving Breast.** All four ✅ rows on the table are Back, each set at age 10 against 10&U cuts. Her biggest single-event drop is 100 Back LC (1:44.37 → 1:36.60). The Apr 22 time trial added distance Free, June's WOSA added Breast, and Oct 24 finally put all four strokes on record (22 events).
 
-The Apr 22 distance TT adds a second dimension: **Back specialist with an emerging distance Free**. Dropping 62 seconds off an 800 Free in 3 months isn't a side event progressing — that's a genuine distance engine. Her profile is now Back / middle-distance with a real distance Free capacity, not just a filler distance base.
+Sprint Free is her weakest area against the cohort. On Oct 24 she was 4.4–6.2s behind the other 2015-born GHAC girls in the 50 Free SC and 9.8–11.8s behind in the 100. In Back she is mid-cohort: her 50 Back PBs (44.26 SC, 45.19 LC) sit between theirs.
+
+### Strengths
+
+- **Back breadth.** She has qualified at 50/100 LC and 50/200 SC. 200 Back SC dropped 3:27.93 → 3:22.24 in five weeks.
+- **Aerobic base.** One April time trial took 62.29s off her 800 SC Free (13:29.84) and 25.48s off her 400. At 800 she trails the faster 2015-born GHAC girls by about 3%, compared with 11–15% in sprint Free.
+- **Breast breakthrough.** 100 Breast LC went 2:08.51 → 1:57.75 → 1:53.00 within twelve months (−15.51s). Both of her LC Breast PBs came at WOSA.
+
+### Development gaps
+
+- **Fly is raw.** Her 50.08 sits between her 50 Back SC (44.26) and 50 Breast SC (55.31), and 9.24s behind her 50 Free that day. It's a baseline, not a verdict. The nearest birth-year GHAC girl was 2.0s faster at the same meet.
+- **Back form is unresolved.** Her last three LC 50 Backs (45.58, 46.19, 45.82) all missed the 45.19 PB, the 100 Back LC regressed +2.04 at WOSA, and she raced no Back on Oct 24. Her Back PBs are now 5–8 months old.
+- **50 Free is stuck at 40.8.** 40.83 SC (Mar), 40.80 LC (May), 40.84 SC (Oct): three swims in two courses, all landing on the same number.
 
 ### Structural observations
 
-**1. 100 Back SC ≈ 100 Back LC — worth monitoring.**
-SCM 1:36.70 vs LCM 1:36.60. These should not be essentially equal. Over 100m in SCM there is one extra turn that should produce at least 1–2 seconds of advantage. The near-identical times suggest the extra SCM turn isn't generating speed — either a flat streamline off the wall, late push-off, or breathing immediately off the turn. The 50 SC Back (44.26) vs 50 LC Back (45.19) shows a 0.93s gap in the expected direction, so the issue likely intensifies over the 100. High-ROI technical focus for next SCM season.
+**1. The 11 band resets the WOSA math.** She turned 11 on Oct 19, so the table now scores new swims against the WOSA 11 cuts. That is why 100 Free SC shows −12.60s, where the 10&U cut would read −5.00. Last June's near-misses (100 Breast LC −0.84s, 200 Back LC −0.63s) become −11.04s and −19.64s against the 2025-26 11 cuts in standards.json. 2026-27 cuts aren't on file. On those values no current PB clears WOSA; the closest are 50 Back SC (−3.38s, 40.88) and 50 Back LC (−3.50s, 41.69). OAG is unchanged (she stays 11&U); its closest gap is still 50 Back SC at −6.17s.
 
-**2. 50 Free LCM stale gap — now closed.**
-The 43.39 (age 9, Jun 2025) PB was flagged as stale in prior analyses. At GHAC May Inv she dropped it to **40.80** (−2.59) — halving the WOSA gap from 4.59s to 2.00s in one swim. As predicted, the current PB wasn't reflecting her real ability. Gap closed; WOSA is now within reach this LC season.
+**2. SCM ≈ LCM now shows in Free as well as Back.** 100 Back SC 1:36.70 vs LC 1:36.60. 50 Free SC 40.83 vs LC 40.80. Her 100 Free SC 1:28.60 is 0.54s *slower* than her LC 1:28.06. The extra turns should be worth at least 1–2s per 100. 50 Back (SC 0.93s faster) and 200 Back (SC 7.48s faster) go the expected way. Timing muddies it, with late-season LC PBs against an early-season SC opener. It now shows in three events, not one. Turns and breakouts are the likeliest lever.
 
-**3. 100 Breast LCM breaking 2:00 is significant.**
-1:57.75 at Pocock (down from 2:08.51 in Jun 2025). The Pocock time put her within WOSA range (cut: 1:52.16 — 5.59s away) for the first time. The cut is reachable. Breast is now a genuinely competitive event, not just a developmental filler.
+### Next steps — ranked
 
-**4. No Fly events on record.**
-39 swims and not a single Fly. For a swimmer with a Back foundation, Fly is the natural complement — similar underwater timing, core-heavy technique. Its absence at age 10 limits future IM development. Even a 50 Fly debut (SCM or LCM) would give the coaching staff useful data.
-
-**5. SCM distance base just got serious.**
-Jan 17 time trial established baselines (7:05.82 / 14:32.13 / 26:32.22 on 400/800/1500). Apr 22 time trial took those baselines down by 25.48s (400) and 62.29s (800) in one session. That's not a developmental benchmark anymore — it's real distance capacity. The 200 Back WOSA qualification was already evidence of aerobic base; the Apr 22 drops confirm it at longer distances.
-
-### WOSA / OAG trajectory
-
-WOSA-qualified in 4 events, all Back. Closest unqualified:
-- **100 Breast LCM** — 5.59s to WOSA (1:57.75 vs 1:52.16). Achievable this season.
-- **100 Free LCM** — 2.65s to WOSA (1:28.06 vs 1:25.41).
-- **50 Breast LCM** — 2.56s to WOSA (54.40 vs 51.84).
-
-OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.69 vs current PB 1:36.60). OAG is a longer runway; the near-term focus should be completing the WOSA sweep across more events.
-
-### Areas of focus — ranked by likely impact
-
-1. **Convert 100 Breast LCM to WOSA (−0.84s)** — newly closest LC WOSA cut. Was −5.59s in April; a 4.75s drop at WOSA brings it within striking distance.
-2. **Diagnose the Back regression** — three Back swims at WOSA all regressed off PBs (50 Back +1.00, 100 Back +2.04, plus 200 Back wasn't entered). If this is two LC meets in a row going wrong on Back, it's now a real pattern, not a single bad day.
-3. **Convert 200 Back LCM to WOSA (−0.63s)** — May Inv debut at 3:29.72. Skipped at WOSA. Next LC meet should close it if Back form returns.
-4. **Race 50 Fly** — still no Fly on record after 50 swims and 13 meets. Most conspicuous remaining gap.
-5. **Convert 50 Free LCM to WOSA (−2.00s)** — May Inv halved the gap; WOSA regressed slightly. Still within reach.
-
-### What to watch for
-
-- **GHAC Summer LC Inv (May 22–24):** Does she race 50 Free LCM and update the stale PB? Any Fly debut? Can she get 100 Back LCM under 1:35?
-- **2026-2027 SCM season:** Does 100 Back SC begin to separate from 100 Back LC as turn efficiency improves?
-- **First Fly event:** When it appears, it will signal the coaching staff is preparing her for IM.
+1. **50 Back SC: beat 44.26.** It's her closest WOSA cut in the 11 band (−3.38s to 40.88 on 2025-26 values), and her first Back race since June tests the plateau.
+2. **Second 50 Fly.** Her second races in newer events have often dropped big (50 Breast SC −6.21, 200 Back SC −5.69, 100 Breast LC −10.76).
+3. **100 Back SC under 1:35.** That would put SC 1.6s+ ahead of LC and show the turn work landing. 11-band WOSA is 1:27.00 (−9.70).
+4. **Break 40 in the 50 Free.** The 40.8 plateau has held for three swims; 11-band WOSA SC is 34.52 (−6.31).
+5. **Distance SC re-test.** April's 400/800 times are six months old. A fall re-test shows whether the aerobic gains survived summer.
 
 <!-- ANALYSIS:END -->
 
@@ -215,15 +151,18 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 | **50 Free** | 2025-11-09 | BAC Short Course Fall Invitational | **42.96** | first |
 |  | 2025-11-23 | GHAC Fall Invitational | **42.62** | −0.34 |
 |  | 2026-03-07 | GHAC Winter Invitational 2026 | **40.83** | −1.79 |
+|  | 2026-10-24 | GHAC Fall Invitational 2026 | 40.84 | +0.01 |
 | **50 Back** | 2025-11-09 | BAC Short Course Fall Invitational | **46.57** | first |
 |  | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | **45.08** | −1.49 |
 |  | 2026-02-14 | GHAC Super Fun Development Meet #2 | **44.75** | −0.33 |
 |  | 2026-03-08 | GHAC Winter Invitational 2026 | **44.26** | −0.49 |
 | **50 Breast** | 2025-11-23 | GHAC Fall Invitational | **1:01.52** | first |
 |  | 2026-03-07 | GHAC Winter Invitational 2026 | **55.31** | −6.21 |
+| **50 Fly** | 2026-10-24 | GHAC Fall Invitational 2026 | **50.08** | first |
 | **100 Free** | 2025-12-13 | GHAC Super Fun Development Meet #1 | **1:36.52** | first |
 |  | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | **1:35.21** | −1.31 |
 |  | 2026-03-08 | GHAC Winter Invitational 2026 | **1:29.01** | −6.20 |
+|  | 2026-10-24 | GHAC Fall Invitational 2026 | **1:28.60** | −0.41 |
 | **100 Back** | 2025-11-23 | GHAC Fall Invitational | **1:41.28** | first |
 |  | 2025-12-13 | GHAC Super Fun Development Meet #1 | **1:41.14** | −0.14 |
 |  | 2026-02-14 | GHAC Super Fun Development Meet #2 | **1:36.70** | −4.44 |
@@ -301,5 +240,8 @@ OAG standards on Back events are significantly harder (100 Back LCM OAG = 1:22.6
 | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 100 Free | 1:35.75 |
 | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Back | 45.82 |
 | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invitational | LCM | 50 Breast | 56.02 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 50 Free | 40.84 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 100 Free | 1:28.60 |
+| 2026-10-24 | GHAC Fall Invitational 2026 | SCM | 50 Fly | 50.08 |
 
 <!-- AUTOGEN:BOTTOM:END -->
