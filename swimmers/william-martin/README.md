@@ -4,7 +4,7 @@
 - **DOB:** 2018-04-04
 - **Sex:** M
 - **Swims on record:** 24 across 8 meets
-- **Last refresh:** 2026-10-30 13:06 UTC
+- **Last refresh:** 2026-10-30 13:40 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -18,7 +18,7 @@
 
 The 100 Free settles June's open question: his March SC PBs were stale, not a sign that short course doesn't suit him. The 100 Free gap to the WOSA 10&U cut shrank from 31.90s to 20.00s in one meet. The 100 Breast shows where the next work is: he averaged 1:12.58 per 50, 5.73s per 50 slower than his SC 50 Breast PB.
 
-No change in qualifying status: nothing qualified yet, and he is still 8, so the same WOSA 10&U / OAG 11&U bands apply.
+No change in qualifying status: nothing qualified yet, and he is still 8, so the same WOSA 10&U / OAG 11&U bands apply. The OAG column now uses Swim Ontario's faster 2026-27 cuts; WOSA is still on 2025-26 until its new cuts are published.
 
 <!-- HIGHLIGHTS:END -->
 
@@ -26,17 +26,17 @@ No change in qualifying status: nothing qualified yet, and he is still 8, so the
 
 ## Personal bests & qualifying status
 
-Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
+Compared to **WOSA 2025-2026** (2026-27 regional cuts not yet published) and **OAG 2026-2027** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
 
 | Event | Course | PB | Date | Meet | Age | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|---|---|
 | **— NOT YET QUALIFIED —** ||||||||
-| 50 Free | LCM | **49.69** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 38.72 (−10.97s) | ❌ 32.87 (−16.82s) |
-| 50 Back | LCM | **1:02.21** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 8 | ❌ 46.59 (−15.62s) | ❌ 39.46 (−22.75s) |
-| 50 Breast | LCM | **1:03.96** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 51.46 (−12.50s) | ❌ 43.59 (−20.37s) |
-| 100 Free | LCM | **1:49.35** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 8 | ❌ 1:25.62 (−23.73s) | ❌ 1:12.53 (−36.82s) |
-| 100 Free | SCM | **1:43.94** | 2026-10-24 | GHAC Fall Invitational 2026 | 8 | ❌ 1:23.94 (−20.00s) | ❌ 1:10.82 (−33.12s) |
-| 100 Breast | SCM | **2:25.16** | 2026-10-24 | GHAC Fall Invitational 2026 | 8 | ❌ 1:50.51 (−34.65s) | ❌ 1:33.60 (−51.56s) |
+| 50 Free | LCM | **49.69** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 38.72 (−10.97s) | ❌ 32.42 (−17.27s) |
+| 50 Back | LCM | **1:02.21** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 8 | ❌ 46.59 (−15.62s) | ❌ 38.19 (−24.02s) |
+| 50 Breast | LCM | **1:03.96** | 2026-05-24 | GHAC May Invitational 2026 | 8 | ❌ 51.46 (−12.50s) | ❌ 42.53 (−21.43s) |
+| 100 Free | LCM | **1:49.35** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 8 | ❌ 1:25.62 (−23.73s) | ❌ 1:11.53 (−37.82s) |
+| 100 Free | SCM | **1:43.94** | 2026-10-24 | GHAC Fall Invitational 2026 | 8 | ❌ 1:23.94 (−20.00s) | ❌ 1:10.13 (−33.81s) |
+| 100 Breast | SCM | **2:25.16** | 2026-10-24 | GHAC Fall Invitational 2026 | 8 | ❌ 1:50.51 (−34.65s) | ❌ 1:31.11 (−54.05s) |
 | **— NO STANDARD —** ||||||||
 | 25 Back | SCM | **30.16** | 2025-11-23 | GHAC Fall Invitational | 7 | — | — |
 | 25 Breast | SCM | **34.41** | 2025-11-23 | GHAC Fall Invitational | 7 | — | — |
@@ -84,7 +84,7 @@ There is no like-for-like cohort at his age: the older GHAC teammates tracked he
 
 June's leading explanation, stale SC PBs, holds for the 100 Free. One swim can't separate four months of growth from the course change, but the direction is now normal. Expect 50 Free and 50 Breast to flip the same way at their next SC swims.
 
-**Qualifying:** nothing yet. Against the 2025-26 cuts, every event is 24–34% off WOSA. He stays in WOSA 10&U and OAG 11&U through age 10, so the gap is the number to track for now.
+**Qualifying:** nothing yet. Against WOSA's 2025-26 cuts (2026-27 not yet published), every event is 24–34% off. The faster 2026-27 OAG cuts widened each OAG gap by 0.45–2.49s, leaving him 48–63% off. He stays in WOSA 10&U and OAG 11&U through age 10, so the gap is the number to track for now.
 
 ### Next steps (ranked)
 

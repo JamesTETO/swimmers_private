@@ -4,7 +4,7 @@
 - **DOB:** 2013-09-17
 - **Sex:** M
 - **Swims on record:** 50 across 15 meets
-- **Last refresh:** 2026-10-30 13:06 UTC
+- **Last refresh:** 2026-10-30 13:40 UTC
 
 ## Highlights since the last update
 <!-- HIGHLIGHTS:START — Claude-maintained, preserved across refreshes -->
@@ -16,7 +16,7 @@
 - 🎉 **50 Free SCM 35.13** (−1.57 vs Nov 2025): ends a three-swim slide (36.70 → 36.96 → 37.43); −1.83 vs this same meet a year ago
 - 🎉 **200 Breast SCM 3:48.61**: event debut, averaging 1:54.3 per 100, already under his 100 Breast PB (1:54.65)
 
-**Qualifying:** nothing gained; none of the three has a cut on the table. He turned 13 on Sep 17, and standards.json maps 13 to a 13&U band it does not hold yet, so all three sit under _No standard_. 50 Free SCM and 200 Back SCM moved there from _Not yet qualified_.
+**Qualifying:** none yet. He turned 13 on Sep 17, so all three are measured against the age-13 cuts (WOSA / OAG): 50 Free −5.47s / −7.89s, 200 Back −29.42s / −41.89s, 200 Breast −46.26s / −61.08s. The faster age-13 cut outpaced the 50 Free PB: its WOSA gap went from 5.03s to 5.47s.
 
 **Notable:** The two SCM events flagged as problems last season both answered at the first chance. The 50 Free stall that June's LC PB hinted was fixable has been fixed, and the 200 Back no longer looks like an SC≈LC anomaly. Opening with three PBs after four months without racing says the summer's LC gains carried over to short course.
 
@@ -28,32 +28,32 @@ _See Analysis for the season picture, the age-up's effect on the qualifying tabl
 
 ## Personal bests & qualifying status
 
-Compared to **2025-2026** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
+Compared to **WOSA 2025-2026** (2026-27 regional cuts not yet published) and **OAG 2026-2027** standards. _Regional_ = WOSA (Western Ontario Swimming Association) Regional Championship. _Provincial_ = OAG (Ontario Age Groups) or equivalent. Check mark = PB is at or under the cut; cross = needs to drop more time. _No standard_ = event has no age-group cut (e.g. 25s, or above the published age bands).
 
 | Event | Course | PB | Date | Meet | Age | Regional (WOSA) | Provincial (OAG) |
 |---|---|---|---|---|---|---|---|
 | **— NOT YET QUALIFIED —** ||||||||
-| 50 Free | LCM | **37.08** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 32.31 (−4.77s) | ❌ 30.10 (−6.98s) |
-| 50 Back | LCM | **44.45** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 38.39 (−6.06s) | ❌ 35.77 (−8.68s) |
-| 50 Breast | LCM | **52.53** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 43.51 (−9.02s) | ❌ 40.54 (−11.99s) |
-| 50 Fly | LCM | **51.44** | 2025-07-27 | 2025 MAC Summer  Invitational July 2 | 11 | ❌ 39.49 (−11.95s) | ❌ 36.80 (−14.64s) |
-| 100 Free | LCM | **1:22.07** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 1:10.68 (−11.39s) | ❌ 1:05.86 (−16.21s) |
-| 100 Back | LCM | **1:39.14** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 1:22.97 (−16.17s) | ❌ 1:17.32 (−21.82s) |
-| 200 Free | LCM | **3:14.38** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 2:51.78 (−22.60s) | ❌ 2:40.06 (−34.32s) |
-| 200 Back | LCM | **3:18.62** | 2026-05-24 | GHAC May Invitational 2026 | 12 | ❌ 3:00.00 (−18.62s) | ❌ 2:47.73 (−30.89s) |
-| 50 Back | SCM | **43.10** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 37.64 (−5.46s) | ❌ 34.90 (−8.20s) |
-| 50 Breast | SCM | **52.93** | 2026-03-07 | GHAC Winter Invitational 2026 | 12 | ❌ 42.65 (−10.28s) | ❌ 39.55 (−13.38s) |
-| 100 Free | SCM | **1:20.50** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:09.29 (−11.21s) | ❌ 1:04.25 (−16.25s) |
-| 100 Back | SCM | **1:32.04** | 2026-02-14 | GHAC Super Fun Development Meet #2 | 12 | ❌ 1:21.35 (−10.69s) | ❌ 1:15.43 (−16.61s) |
-| 100 Breast | SCM | **1:54.65** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:32.03 (−22.62s) | ❌ 1:25.33 (−29.32s) |
-| 200 Free | SCM | **2:59.14** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 2:32.70 (−26.44s) | ❌ 2:21.60 (−37.54s) |
-| 400 Free | SCM | **6:05.29** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | 12 | ❌ 5:21.00 (−44.29s) | ❌ 4:57.66 (−67.63s) |
-| 800 Free | SCM | **12:17.38** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 11:05.58 (−71.80s) | ❌ 10:17.17 (−120.21s) |
-| 200 IM | SCM | **3:23.79** | 2026-03-07 | GHAC Winter Invitational 2026 | 12 | ❌ 2:52.89 (−30.90s) | ❌ 2:40.31 (−43.48s) |
+| 50 Free | LCM | **37.08** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 32.31 (−4.77s) | ❌ 29.83 (−7.25s) |
+| 50 Back | LCM | **44.45** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 38.39 (−6.06s) | ❌ 35.12 (−9.33s) |
+| 50 Breast | LCM | **52.53** | 2026-04-11 | GHAC Spring Invitational 2026 | 12 | ❌ 43.51 (−9.02s) | ❌ 39.21 (−13.32s) |
+| 50 Fly | LCM | **51.44** | 2025-07-27 | 2025 MAC Summer  Invitational July 2 | 11 | ❌ 39.49 (−11.95s) | ❌ 36.32 (−15.12s) |
+| 100 Free | LCM | **1:22.07** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 1:10.68 (−11.39s) | ❌ 1:05.51 (−16.56s) |
+| 100 Back | LCM | **1:39.14** | 2026-06-14 | GHAC Sprint in the Sun Outdoor Invit | 12 | ❌ 1:22.97 (−16.17s) | ❌ 1:16.67 (−22.47s) |
+| 200 Free | LCM | **3:14.38** | 2025-06-20 | 2025 BAD Outdoor LC Invitational | 11 | ❌ 2:51.78 (−22.60s) | ❌ 2:35.05 (−39.33s) |
+| 200 Back | LCM | **3:18.62** | 2026-05-24 | GHAC May Invitational 2026 | 12 | ❌ 3:00.00 (−18.62s) | ❌ 2:44.81 (−33.81s) |
+| 50 Free | SCM | **35.13** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | ❌ 29.66 (−5.47s) | ❌ 27.24 (−7.89s) |
+| 50 Back | SCM | **43.10** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 37.64 (−5.46s) | ❌ 34.43 (−8.67s) |
+| 50 Breast | SCM | **52.93** | 2026-03-07 | GHAC Winter Invitational 2026 | 12 | ❌ 42.65 (−10.28s) | ❌ 38.44 (−14.49s) |
+| 100 Free | SCM | **1:20.50** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:09.29 (−11.21s) | ❌ 1:04.23 (−16.27s) |
+| 100 Back | SCM | **1:32.04** | 2026-02-14 | GHAC Super Fun Development Meet #2 | 12 | ❌ 1:21.35 (−10.69s) | ❌ 1:15.16 (−16.88s) |
+| 100 Breast | SCM | **1:54.65** | 2026-03-08 | GHAC Winter Invitational 2026 | 12 | ❌ 1:32.03 (−22.62s) | ❌ 1:24.13 (−30.52s) |
+| 200 Free | SCM | **2:59.14** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 2:32.70 (−26.44s) | ❌ 2:20.89 (−38.25s) |
+| 200 Back | SCM | **3:10.85** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | ❌ 2:41.43 (−29.42s) | ❌ 2:28.96 (−41.89s) |
+| 200 Breast | SCM | **3:48.61** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | ❌ 3:02.35 (−46.26s) | ❌ 2:47.53 (−61.08s) |
+| 400 Free | SCM | **6:05.29** | 2026-01-31 | GHAC SC Last Chance Qualifier 2026 | 12 | ❌ 5:21.00 (−44.29s) | ❌ 4:59.12 (−66.17s) |
+| 800 Free | SCM | **12:17.38** | 2026-04-22 | GHAC In-House Time Trial 800 Free | 12 | ❌ 11:05.58 (−71.80s) | ❌ 10:20.20 (−117.18s) |
+| 200 IM | SCM | **3:23.79** | 2026-03-07 | GHAC Winter Invitational 2026 | 12 | ❌ 2:52.89 (−30.90s) | ❌ 2:39.53 (−44.26s) |
 | **— NO STANDARD —** ||||||||
-| 50 Free | SCM | **35.13** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | — | — |
-| 200 Back | SCM | **3:10.85** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | — | — |
-| 200 Breast | SCM | **3:48.61** | 2026-10-24 | GHAC Fall Invitational 2026 | 13 | — | — |
 | 1500 Free | SCM | **24:21.84** | 2026-01-17 | GHAC In-House Time Trial Group 2 202 | 12 | — | — |
 | 100 IM | SCM | **1:41.59** | 2025-12-13 | GHAC Super Fun Development Meet #1 | 12 | — | — |
 
@@ -97,17 +97,17 @@ Oliver turned 13 on Sep 17 and is the oldest swimmer on the GHAC pages. The data
 
 **1. The 50 Free SCM stall is over.** 36.70 → 36.96 → 37.43 → **35.13**. June's LC PB (37.08) suggested the SC version would follow; it did, at the first chance.
 
-**2. The walls-and-turns case has lost its two best datapoints.** It rested on the 200 Back SC≈LC (3:18.61 vs 3:18.62) and the 50 Free SC slide. SC now beats LC by 7.77s on 200 Back and 1.95s on 50 Free, wider than the SC/LC spread in the age-12 cuts (about 3.5–4s and 0.6–0.7s). The pairs span months and an age-up, so his turns aren't proven fine, just no longer the lead issue; a same-season SC and LC 200 Back would settle it.
+**2. The walls-and-turns case has lost its two best datapoints.** It rested on the 200 Back SC≈LC (3:18.61 vs 3:18.62) and the 50 Free SC slide. SC now beats LC by 7.77s on 200 Back and 1.95s on 50 Free, wider than the SC/LC spread in the age-12 and age-13 cuts (about 3.1–3.5s and 0.55–0.65s). The pairs span months and an age-up, so his turns aren't proven fine, just no longer the lead issue; a same-season SC and LC 200 Back would settle it.
 
 **3. The 200 Breast says the 100 Breast PB is stale.** A 200 averaging 1:54.3 per 100 already sits under his March 100 PB of 1:54.65.
 
 ### Path to qualifying times
 
-No qualifying times yet. standards.json maps age 13 to a 13&U band it doesn't contain, so every swim at 13 lands under _No standard_; the ❌ rows left are age-11/12 PBs and will move there as he re-swims them. The closest are the age-12 LCM gaps: 50 Free −4.77s to WOSA, 50 Back −6.06s, 100 Free −11.39s. For scale only, not as a status: against the age-12 SC WOSA cuts, the 50 Free gap went from 5.03s to 3.46s and the 200 Back gap from 22.14s to 14.38s. Cuts get faster with each year of age (WOSA 50 Free SCM: 38.04 → 34.58 → 31.67 across 10&U/11/12), so treat those gaps as a floor. Narrowing them is the realistic 2026-27 goal.
+No qualifying times yet. From now on his new swims are measured against the faster age-13 cuts; PBs set at 11 and 12 keep their age-11/12 gaps until re-swum. Oct 24 gaps (WOSA / OAG): 50 Free SCM −5.47s / −7.89s, 200 Back −29.42s / −41.89s, 200 Breast −46.26s / −61.08s. The age-up outpaced his drops: the 50 Free fell 1.57s but its WOSA cut fell 2.01s (gap 5.03s → 5.47s), and the 200 Back fell 7.76s against a cut 15.04s faster (22.14s → 29.42s). Closest on the table: 50 Free LCM −4.77s (set at 12), 50 Back SCM −5.46s (at 12) and 50 Free SCM −5.47s. Narrowing the WOSA gaps is the realistic 2026-27 goal.
 
 ### Next steps, ranked by likely impact
 
-1. **Back up the 50 Free SCM.** After three swims going the wrong way, one PB isn't a trend; a second sub-36 confirms it.
+1. **Back up the 50 Free SCM.** After three swims going the wrong way, one PB isn't a trend; a second sub-36 confirms it. Closest age-13 gap: 5.47s to WOSA 29.66.
 2. **Debut SC Fly (50 Fly SCM).** Closes his only stroke/course gap, replaces a 15-month-old PB, and gives the 200 IM its missing datapoint.
 3. **Race a 100 Breast SCM.** The 200 says 1:54.65 is overdue; anything under 1:54 confirms it.
 4. **Re-race 200 IM (3:23.79) and 100 Back (1:32.04).** Once Fly is in the record, the IM's weak leg becomes identifiable.
